@@ -142,7 +142,7 @@ Republican period 1912–1949
 
 # Porcelain terminology  
 
-The Chinese term ‘ci’ (translated as porcelain in English) refers to all ceramics that are fired at high temperatures, including porcelain and stoneware. In the West, the term porcelain refers specifically to white ceramics made with a special type of clay called kaolin and fired to a temperature of about $1300^{\circ}\mathrm{C}$ , which results in a translucent, glassy material that makes a ringing sound when struck. Stoneware is used to refer to related ceramics that are similarly hard and dense, but which are made with grey or brown clay, may or may not be white-bodied, do not transmit light, and are fired to a slightly lower temperature of 1000 to $1250^{\circ}\mathrm{C}$ . Ceramics fired below this temperature range are called earthenwares. The terms ‘protoporcelain’ or ‘porcellaneous’ are sometimes used to describe early ceramics made with some of the same ingredients and physical characteristics of porcelain.  
+The Chinese term ‘ci’ (translated as porcelain in English) refers to all ceramics that are fired at high temperatures, including porcelain and stoneware. In the West, the term porcelain refers specifically to white ceramics made with a special type of clay called kaolin and fired to a temperature of about 1300°C , which results in a translucent, glassy material that makes a ringing sound when struck. Stoneware is used to refer to related ceramics that are similarly hard and dense, but which are made with grey or brown clay, may or may not be white-bodied, do not transmit light, and are fired to a slightly lower temperature of 1000 to 1250°C . Ceramics fired below this temperature range are called earthenwares. The terms ‘protoporcelain’ or ‘porcellaneous’ are sometimes used to describe early ceramics made with some of the same ingredients and physical characteristics of porcelain.  
 
 # Marks  
 
@@ -214,10 +214,10 @@ By the early sixteenth century—after Portugal established trade routes to the 
 ![Fonthill Vase. China, ca. 1300–1330. Porcelain, height 28.3 cm.National Museum of Ireland, Dublin](https://aiha.blob.core.windows.net/images/425e31a1a7a69f9fd79f4bdc96949a0e92caa03a8e4c100ebff657e33eb35e30.jpg)  
 
 Fonthill Vase. China, ca. 1300–1330. Porcelain, height 28.3 cm.National Museum of Ireland, Dublin  
-「豐山瓶」。中國，約一三零零年至一三三零年 $^\circ$ 瓷，高28.3 厘米。都柏林，愛爾蘭國家博物館  
+「豐山瓶」。中國，約一三零零年至一三三零年。瓷，高28.3 厘米。都柏林，愛爾蘭國家博物館  
 
 ![Chamber of Art and Curiosities. Frans Francken the Younger, 1636. Oil on panel, 86.5 * 120 cm. Kunsthistorisches Museum, Vienna](https://aiha.blob.core.windows.net/images/bdbd2db5c72fd029f19cf8b339c49bfe1c5ded599d12e9b8591f66eb5f1fc4c1.jpg)  
-Chamber of Art and Curiosities. Frans Francken the Younger, 1636. Oil on panel, 86.5 $\times$ 120 cm. Kunsthistorisches Museum, Vienna《藝術品珍奇屋》。小法蘭斯．弗蘭肯，一六三六年。板面油畫，86.5 ${\bf X}$ 120 厘米。維也納，藝術史博物館  
+Chamber of Art and Curiosities. Frans Francken the Younger, 1636. Oil on panel, 86.5 x 120 cm. Kunsthistorisches Museum, Vienna《藝術品珍奇屋》。小法蘭斯．弗蘭肯，一六三六年。板面油畫，86.5 x 120 厘米。維也納，藝術史博物館  
 
 嘗試透過分類藏品來訴說大自然奇妙的故事( 圖 2)。  
 
@@ -239,7 +239,7 @@ The appearance of these objects changed in step with tastes in Europe. At times 
 Like all successful inventions, Chinese ceramics inspiredcompetition, at first in Asia and later in Europe. In the lateTang period, traders from the Middle East brought Chineseporcelains to western Asia, where potters in Iraq copied them壓艙物。到了十七世紀，荷蘭及英國等地相繼建立具競爭性的貿易網絡，進一步刺激了為個別國家訂造特定器型及花紋、及專為富裕家庭而設的個人化碟子的生產。收藏瓷器的風尚席捲歐洲，此風氣被某些極為熱衷者稱為「瓷器狂 熱 」(as la maladie die porcelaine)。 當 中 最 富裕的收藏家更因此成立「瓷器陳列室」，於壁爐、櫥櫃、牆壁上展示大量的瓷器，配襯髹以色澤奢華的木板或漆器而造的牆壁，作為晚期巴洛克風格室內設計的一部分。  
 
 ![Plate. Jingdezhen, China, 1739–1743. Porcelain with overglaze enamels, diameter 22.9cm . The Metropolitan Museum of Art, New York](https://aiha.blob.core.windows.net/images/955bd70c05e3553f3ba014ad862b2b229bf8af778b07a8de7adee94c456aeb71.jpg)  
-Plate. Jingdezhen, China, 1739–1743. Porcelain with overglaze enamels, diameter $22.9~\mathrm{cm}$ . The Metropolitan Museum of Art, New York 碟 $^\circ$ 中國景德鎮，一七三九年至一七四三年。釉上彩瓷，直徑 22.9 厘米。紐約，大都會藝術博物館  
+Plate. Jingdezhen, China, 1739–1743. Porcelain with overglaze enamels, diameter 22.9cm. The Metropolitan Museum of Art, New York 碟 。 中國景德鎮，一七三九年至一七四三年。釉上彩瓷，直徑 22.9 厘米。紐約，大都會藝術博物館  
 
 這批器物的造型隨歐洲市場的喜好而改變。部分顧客偏愛描繪遠東此神秘異國的圖案，其他則推崇西式花紋，如耀眼的徽章或取自版畫的山水景與人物。透過穩固的貿易網絡，歐洲的圖案樣品傳往中國，陶匠再複製於獨特的餐具上 ( 圖 3)。此種「以訛傳訛」的溝通方式往往造成怪異的作品，如將荷蘭餐盤上的阿姆斯特 丹 (Amsterdam) 徽 章 錯 誤 寫 成「AMSTELDAM」、或將執壺的葡萄牙印章上下倒轉繪畫( 圖 4)。但歐洲人也為中國帶來新科技及技術，促成藝術變革，如廣泛用於本地及外銷瓷器的粉彩 ( 法文為 famille-rose，即「粉紅家族」)。受康熙、雍正和乾隆三帝器重的耶穌會士畫家郎世寧 (1688-1766)，即以向中國畫家介紹西方繪畫技巧而聞名，如用於各種媒介上的平行透視法。  
 
@@ -251,7 +251,7 @@ Blue-and-white dish. China, Gongxian kilns, around 830s. Stoneware, diameter 23 
 ![Covered box. Sawankhalok, Thailand, 15th or 16th century. Earthenware with cream white glazeand iron-brown underglaze, diameter 16 cm. University Museum and Art Gallery, Hong Kong](https://aiha.blob.core.windows.net/images/a51597542d50a65101c9fbbffa0583f1b8f0e6568f1013fa969935c704e7ec9f.jpg)  
 Covered box. Sawankhalok, Thailand, 15th or 16th century. Earthenware with cream white glazeand iron-brown underglaze, diameter 16 cm. University Museum and Art Gallery, Hong Kong蓋盒。泰國宋加洛，十五世紀或十六世紀。乳白釉及釉下鐵褐釉陶器，直徑 16 厘米。香港，香港大學美術博物館  
 
-2. Referred to as the ‘Ming gap’ (ca. 1370– 1570) by scholars like Roxanna Brown, these interruptions occurred between 1325 and 1380. The second severe shortage of blue-and-white porcelain saw China’s market share of ceramic production decrease to $50\%$ from 1368 to 1424–1430. This decreased to $5\%$ from 1424–1430 to 1487, before rebounding during the reign of the Hongzhi emperor, and then declining once again until the formal rescinding of the haijin (‘sea ban’) in 1567.  
+2. Referred to as the ‘Ming gap’ (ca. 1370– 1570) by scholars like Roxanna Brown, these interruptions occurred between 1325 and 1380. The second severe shortage of blue-and-white porcelain saw China’s market share of ceramic production decrease to 50% from 1368 to 1424–1430. This decreased to 5% from 1424–1430 to 1487, before rebounding during the reign of the Hongzhi emperor, and then declining once again until the formal rescinding of the haijin (‘sea ban’) in 1567.  
 
 3. The Dutch, exempt from restrictions on trade placed on other European nations by the Japanese authorities, also exposed the Arita potters to Chinese underglaze blue porcelain, which was popular in Europe, so that they could use it as an example in their own work.  
 
@@ -269,7 +269,7 @@ On China’s borders, nearly five centuries of Goryeo dynasty (918–1392) rule 
 
 # Porcelain manufactories in Europe  
 
-Portuguese traders were successful in returning home with samples of kaolin, which they discovered in China to be essential in the production of porcelain wares, but Europeans remained ignorant of the techniques and processes involved in the production of porcelain until 1708, when the first European hard-paste porcelain (made from a compound of the feldspathic rock petuntse and kaolin clay fired at around $1400^{\circ}\mathrm{C}\mathrm{)}$ was made in Meissen, Germany by Johann Friedrich Böttger. With support from the porcelain-obsessed  
+Portuguese traders were successful in returning home with samples of kaolin, which they discovered in China to be essential in the production of porcelain wares, but Europeans remained ignorant of the techniques and processes involved in the production of porcelain until 1708, when the first European hard-paste porcelain (made from a compound of the feldspathic rock petuntse and kaolin clay fired at around 1400°C was made in Meissen, Germany by Johann Friedrich Böttger. With support from the porcelain-obsessed  
 
 來西亞、泰國、印尼及菲律賓，蓬勃的陶瓷貿易之要員。  
 
@@ -292,9 +292,9 @@ Kaolin was not discovered in France until the second half of the eighteenth cent
 直到十八世紀下半葉，法國才發現高嶺土，故一七七零年前燒造的法國瓷器，都是軟質瓷而非硬質瓷。燒造兩種瓷器的瓷廠，昔日都是以生產當時最普遍的彩陶──一種塗上錫釉的陶器為主，就如盧昂和聖克盧的作坊一樣。其中最成功的，可能是巴黎西部的塞爾夫工廠。該廠於一七五六年從萬塞訥的舊址搬遷至此。在法國國王路易十五 ( 執政年份為 1715 年至 1774年 ) 的經濟支持下，塞爾夫工廠不但迅速獨霸法國的陶瓷工業，更主導十八世紀下半葉的歐洲陶瓷工業發展。塞爾夫工廠持續發展創新與進行改革實驗，又追尋各種創作靈感，如日本漆器 ( 圖 8)。故此，塞爾夫工廠在一七五零年代中葉，就產量與創新層面，已取代邁森工廠成為十八世紀歐洲陶瓷生產的先鋒。  
 
 ![Sweetmeat dish. Doccia, Italy, ca. 1780. Tin-glazed hard-paste porcelain, length 8.9cm. The Victoria and Albert Museum, London](https://aiha.blob.core.windows.net/images/f60ac9f96e91c7bb93cd8ab3c499ded48ad3ff7da413ab0233bea2c590413251.jpg)  
-Sweetmeat dish. Doccia, Italy, ca. 1780. Tin-glazed hard-paste porcelain, length $8.9\mathrm{cm}$ . The Victoria and Albert Museum, London  
+Sweetmeat dish. Doccia, Italy, ca. 1780. Tin-glazed hard-paste porcelain, length 8.9cm. The Victoria and Albert Museum, London  
 
-糖果糕點碟。意大利多西亞，約一七八零年。錫釉硬質瓷，長 8.9 厘米 $^\circ$ 倫敦，維多利亞及艾伯特博物館  
+糖果糕點碟。意大利多西亞，約一七八零年。錫釉硬質瓷，長 8.9 厘米。倫敦，維多利亞及艾伯特博物館  
 
 of the eighteenth century. Innovative and experimental new forms were always in development, and the factory looked to different sources of inspiration, such as Japanese lacquer (fig. 8). By the mid-1750s, it had overtaken the Meissen factory in terms of production and innovation. It remained at the forefront of European porcelain production for the rest of the century.  
 
@@ -308,7 +308,7 @@ The University of Hong Kong
 
 ![Plate. Sèvres factory, France, 1791. Hard-paste porcelain, diameter 24.3cm. The Metropolitan Museum of Art, New York](https://aiha.blob.core.windows.net/images/b39d871b08427f8a3a3a2446f7f3ca5aa9e0b0dd564b91aa494c68efe66d7a62.jpg)  
 
-Plate. Sèvres factory, France, 1791. Hard-paste porcelain, diameter$24.3~\mathrm{cm}$ . The Metropolitan Museum of Art, New York碟。法國塞爾夫工廠，一七九一年。硬質瓷，直徑 24.3厘米。紐約，大都會藝術博物館  
+Plate. Sèvres factory, France, 1791. Hard-paste porcelain, diameter 24.3 cm. The Metropolitan Museum of Art, New York碟。法國塞爾夫工廠，一七九一年。硬質瓷，直徑 24.3厘米。紐約，大都會藝術博物館  
 
 由於缺乏製瓷的關鍵材料，即使彼岸的英國製造商致力研究製瓷秘方，在一七四零年代至一七六零年代間，仍只能研製出一系列不適合用作餐具的軟質瓷的配方。當一名英國化學家威廉．考克沃西於一七四六年，在康瓦爾郡發現高嶺土 ( 他隨即於聖奧斯特爾附近的聖司提反發現質量更好的瓷土 ) 後，英國瓷業即發生巨變。經過二十年的製瓷配方實驗後，考克沃西申請專利並於一七六八年成立英國首間製造真正瓷器的工廠──普利茅斯瓷廠。十八世紀末、十九世紀初，英國瓷器工業發展蓬勃，工廠遍佈德比、烏斯特、史丹佛郡及利物浦等地。這些瓷廠並無得到王公貴族的支持，而是由企業家及藝術家領導的商營企業，其產品亦以不斷增長的中產階級為銷售對象。  
 
@@ -370,7 +370,7 @@ HKU.C.1953.0028
 
 一九七五年，當唐代青花陶瓷碎片在江蘇省揚州市的沿岸城市被發掘出來後，才得以確認唐代已燒造青花陶瓷的事實。大部分估計產自河南省的鞏縣 ( 今為鞏義市 ) 的早期青花陶器和一些小碟，都是在一九九八年從一艘沉沒於印尼勿里洞島附近海域、屬於九世紀阿拉伯帆船「黑石」號打撈出來。這艘於亞洲水域發現到最古老的阿拉伯商船，承載六萬件中國陶瓷，包括如此水丞的器物。該船從揚州出發，以東南亞及中東地區為目的地。  
 
-![Gongyi, China (Tang dynasty), probably 9th century. Stoneware, height 7.5 cm. HKU.C.1953.0028](https://aiha.blob.core.windows.net/images/b23e202d0bf5532751a8eb127fa47e46a0bea24c209c7965a70cf2ebdc73e2a1.jpg)  
+![Water pot. Gongyi, China (Tang dynasty), probably 9th century. Stoneware, height 7.5 cm. HKU.C.1953.0028](https://aiha.blob.core.windows.net/images/b23e202d0bf5532751a8eb127fa47e46a0bea24c209c7965a70cf2ebdc73e2a1.jpg)  
 
 # Bottle (yuhuchun)  
 
@@ -404,7 +404,7 @@ Made on a larger scale than earlier examples, blue-and-white yuhuchun were somet
 
 7. 一件以其前擁有者、「豐山」莊園的威廉．碧福 ( 他在一七九三、一八零三或一八一四年的巴黎旅途中購得此件 ) 而命名 的「豐山瓶」玉壺春瓶，是存世有記錄最早外銷至歐洲的中國瓷器之一。這件玉壺春瓶被視為至寶，洛約什一世大王 ( 執政年份為1342 年 至 1382 年 ) 曾 嵌 上 銀 飾， 視為一件執壺，並於一三八一年贈予卡洛三世，慶祝他成為那不勒斯國王。從現存於法國國家圖書館、由法國古物收藏家羅格．格蘭爾約於一七一三年繪畫的水彩畫中，亦可見此瓶。該瓶自一八六零年後，收藏於位於都柏林的愛爾蘭國家博物館。  
 
-![China (Yuan dynasty), 14th century Porcelain with underglaze blue, height 25.5 cm. HKU.C.1978.0632](https://aiha.blob.core.windows.net/images/d4376ba5120887362753071910f3d443e777a2f348fee539f68f9351e0dfc975.jpg)  
+![Bottle (yuhuchun). China (Yuan dynasty), 14th century Porcelain with underglaze blue, height 25.5 cm. HKU.C.1978.0632](https://aiha.blob.core.windows.net/images/d4376ba5120887362753071910f3d443e777a2f348fee539f68f9351e0dfc975.jpg)  
 
 # Bowl  
 
@@ -424,7 +424,7 @@ HKU.C.2003.1484
 
 這碗繪以不同色調的鈷藍來強化色澤效果，並飾有牡丹紋及生氣勃勃的蔓藤，碗內邊飾為一周風格化的卷蓮紋。自然的花卉紋、簡約的設計與濃厚的鈷藍色 ( 部分燒成深藍黑色，其他則為淡藍色 ) 都是永樂瓷器的典型特色。  
 
-![Jingdezhen, China (Ming dynasty), Yongle period, 1403–1424 Porcelain with underglaze blue, diameter 20.5 cm. HKU.C.2003.1484](https://aiha.blob.core.windows.net/images/a66f413878cb9717e981efd66dd9a742f40788a635662fb080e88b7e65c3a26c.jpg)  
+![Bowl. Jingdezhen, China (Ming dynasty), Yongle period, 1403–1424 Porcelain with underglaze blue, diameter 20.5 cm. HKU.C.2003.1484](https://aiha.blob.core.windows.net/images/a66f413878cb9717e981efd66dd9a742f40788a635662fb080e88b7e65c3a26c.jpg)  
 
 # Tankard  
 
@@ -448,7 +448,7 @@ HKU.C.1957.0193
 
 歐洲人對於揉合了中東風情的中國瓷器推崇至極。經荷蘭傳入歐洲後，這類瓷器通常再被鑲嵌上鍍銀的蓋及托。十七世紀的伊萬里瓷把杯的手柄上更預先設有小孔，讓鑲嵌過程更加方便。  
 
-![Jingdezhen, China (Ming dynasty), early 15th century Porcelain with underglaze blue, height 13.3 cm. HKU.C.1957.0193](https://aiha.blob.core.windows.net/images/46ea9c5fb186fa0956a34bb1a4c0a6692a5666bac7e43d4bafd5191d6a318e40.jpg)  
+![Tankard. Jingdezhen, China (Ming dynasty), early 15th century Porcelain with underglaze blue, height 13.3 cm. HKU.C.1957.0193](https://aiha.blob.core.windows.net/images/46ea9c5fb186fa0956a34bb1a4c0a6692a5666bac7e43d4bafd5191d6a318e40.jpg)  
 
 # Plate  
 
@@ -464,7 +464,7 @@ HKU.C.1957.0194
 
 碟上獨特的折枝花卉與石榴花紋或首創於宣德年間，並於隨後各朝加以潤飾後再度流行，甚至偶爾出現於清代青花瓷裝飾上。石榴花的枝子尾部參差不齊，是一種顯示它剛被摘下來的傳統藝術表現手法。明宮廷視相類瓷碟為至寶，間或用作外交禮物。大英博物館所藏的《古玩圖》手軸上，繪有相似的瓷碟，該圖亦是維多利亞及艾伯特博物館所藏，屬《古玩圖》的另一版本。  
 
-![Jingdezhen, China (Ming dynasty), Zhengde period, 1506–1521 Porcelain with underglaze blue, diameter 25.6 cm. HKU.C.1957.0194  ](https://aiha.blob.core.windows.net/images/ea3cbd4bda50ac0ea79b837210537d9fab4eca15e07ee56d756c333f1810304f.jpg)  
+![Plate. Jingdezhen, China (Ming dynasty), Zhengde period, 1506–1521 Porcelain with underglaze blue, diameter 25.6 cm. HKU.C.1957.0194  ](https://aiha.blob.core.windows.net/images/ea3cbd4bda50ac0ea79b837210537d9fab4eca15e07ee56d756c333f1810304f.jpg)  
 
 # Bowl  
 
@@ -480,7 +480,7 @@ HKU.C.2003.1485
 
 雖然碗底書宣德皇帝的年號，但碗的器型和設計與徐氏藝術館昔日所藏的成化青花碗非常相似。 徐氏藝術館所藏的成化青花碗，雖同樣書宣德年款，卻是出土自景德鎮御窯的成化地層，兩者都屬已知最早在御瓷上書有前朝年款的例子之一。此舉於往後各朝廣泛沿用，成為一個對前朝、並借用其設計的尊重與誌謝。外壁的獅子戲繡球紋則寓意力量、靈力及步步高陞。  
 
-![ingdezhen, China (Ming dynasty), early or mid-15th century Porcelain with underglaze blue, diameter 20.8 cm. HKU.C.2003.1485](https://aiha.blob.core.windows.net/images/b9a2f26294e793bbd87b9d1f7b7b00de6dec69f45498ce97a85bfc7c65a55ca8.jpg)  
+![Bowl. Jingdezhen, China (Ming dynasty), early or mid-15th century Porcelain with underglaze blue, diameter 20.8 cm. HKU.C.2003.1485](https://aiha.blob.core.windows.net/images/b9a2f26294e793bbd87b9d1f7b7b00de6dec69f45498ce97a85bfc7c65a55ca8.jpg)  
 
 8. The Tsui Museum of Art housed the collection of Hong Kong businessman T.T. Tsui, who began collecting in the 1970s. Tsui donated a significant portion of his collection to UMAG and the Hong Kong Heritage Museum, as well as to numerous institutions in Australia, the United Kingdom and the United States.  
 
@@ -502,7 +502,7 @@ Similar bowls intended for Southeast Asia from this period have been found in sh
 青花瓷，直徑 14.8 厘米  
 HKU.C.1978.0659  
 
-碗胎骨厚重，飾有淡藍色的蜂巢紋與風格化的蓮瓣紋。 $0\boxed{\times}$ 壁中心繪一個雙十字杵紋 ( 一種在棍棒上附球狀頭的佛教紋飾 )，外圍飾上一串珍珠。瓷質細密剛硬，呈灰白色，施帶釉泡的微藍色釉。  
+碗胎骨厚重，飾有淡藍色的蜂巢紋與風格化的蓮瓣紋。 內壁中心繪一個雙十字杵紋 ( 一種在棍棒上附球狀頭的佛教紋飾 )，外圍飾上一串珍珠。瓷質細密剛硬，呈灰白色，施帶釉泡的微藍色釉。  
 
 在十五世紀末至十六世紀初，景德鎮大量生產此類型的碗，標誌著一個青花瓷出口至東南亞的急速增長時期。這一陣狂熱基於幾個因素，如在一四三五年至一四六五年間，因御窯產量減少而促成的蓬勃商業發展、成化與弘治年間持久穩定的政經局面等。  
 
@@ -512,7 +512,7 @@ HKU.C.1978.0659
 
 9. 參見維多利亞及艾伯特博物館藏的一隻兔紋碗，約屬一五零零年代的 作 品， 藏 品 編 號 559-1905 (Crowe2002)。  
 
-![Jingdezhen, China (Ming dynasty), late 15th or early 16th century Porcelain with underglaze blue, diameter 14.8 cm. HKU.C.1978.0659](https://aiha.blob.core.windows.net/images/391bcc32e730b22872924af51df5d24cd2084233fd3a9973a4167ce58bf85de1.jpg)  
+![Bowl. Jingdezhen, China (Ming dynasty), late 15th or early 16th century Porcelain with underglaze blue, diameter 14.8 cm. HKU.C.1978.0659](https://aiha.blob.core.windows.net/images/391bcc32e730b22872924af51df5d24cd2084233fd3a9973a4167ce58bf85de1.jpg)  
 
 # Bowl  
 
@@ -536,7 +536,7 @@ HKU.C.1978.0660
 
 10.「 汕 頭 」(Swatow) 一 字 明 顯 源自 古 物 買 家 與 收 藏 家， 但 暫 未 能確 定 其 具 體 的 起 用 日 期。 大 英 博物館亞洲館前館長羅伯特．霍布森(1872-1941) 所 著 的《 明 代 陶 瓷 》(Hobson 1923)，是有關這些瓷器最早且最重要的文獻之一，當中他並沒使用「汕頭」(Swatow) 一字。荷蘭東印度公司的官員則以「粗糙器」來形容這類瓷器。  
 
-![Zhangzhou, China (Ming dynasty), late 16th or early 17th century Porcelain with underglaze blue, diameter 11.3 cm. HKU.C.1978.0660](https://aiha.blob.core.windows.net/images/0bb162eb711a112327f10f2c522c5b31a8be0711490a55d18f3a75189f245759.jpg)  
+![Bowl. Zhangzhou, China (Ming dynasty), late 16th or early 17th century Porcelain with underglaze blue, diameter 11.3 cm. HKU.C.1978.0660](https://aiha.blob.core.windows.net/images/0bb162eb711a112327f10f2c522c5b31a8be0711490a55d18f3a75189f245759.jpg)  
 
 # Incense burner  
 
@@ -560,7 +560,7 @@ HKU.C.1954.0122
 
 雖然「古染付」似乎未曾外銷至西方 ( 至今仍未從十七世紀、往歐洲的貨船殘骸中發現其蹤影 )，但它對於日後日本有田燒的器型及風格影響深遠。十七世紀的有田燒不僅能與中國的窯匹敵、競逐歐洲市場，更啟發歐洲各地陶瓷廠，如烏斯特瓷廠和德比瓷廠，研製出揉合中日陶瓷花紋的創新裝飾設計。  
 
-![Jingdezhen, China (Ming dynasty), 16th or 17th century Porcelain with underglaze blue, diameter 17.3 cm. HKU.C.1954.0122](https://aiha.blob.core.windows.net/images/1ad4204adc402ce4c5844308780a5026af998af3a6c21a3c2329096d56a0d668.jpg)  
+![Incense burner. Jingdezhen, China (Ming dynasty), 16th or 17th century Porcelain with underglaze blue, diameter 17.3 cm. HKU.C.1954.0122](https://aiha.blob.core.windows.net/images/1ad4204adc402ce4c5844308780a5026af998af3a6c21a3c2329096d56a0d668.jpg)  
 
 11. 中國製瓷業的「過渡期」一般指在從明萬曆皇帝於一六二零年逝世後，到一六八三年，臧應選出掌景德鎮御窯、並重新加以嚴格規管前的一段時期。  
 
@@ -592,7 +592,7 @@ HKU.C.1996.1093
 
 雖然當時的歐洲人應對中國進口瓷器上複雜的視覺寓意茫無頭緒，但他們仍然深愛這些色澤亮麗、雕工精細的奇珍異器。歐洲人對東方的想像，如「中國風」及「日本主義」等精彩的藝術運動，無庸置疑地乃源於瓷器上陌生的異獸和風景。  
 
-![Jingdezhen, China (Ming dynasty), Jiajing period, 1522–1566 Porcelain with underglaze blue, diameter 72.3 cm. HKU.C.1996.1093](https://aiha.blob.core.windows.net/images/a4d59b1e3f2fc5cef6b6ad12365ef9ae9670b72f02326c7766fd36e005d80563.jpg)  
+![Jardinière. Jingdezhen, China (Ming dynasty), Jiajing period, 1522–1566 Porcelain with underglaze blue, diameter 72.3 cm. HKU.C.1996.1093](https://aiha.blob.core.windows.net/images/a4d59b1e3f2fc5cef6b6ad12365ef9ae9670b72f02326c7766fd36e005d80563.jpg)  
 
 # Pair of wine cups  
 
@@ -608,7 +608,7 @@ HKU.C.1957.0196
 
 酒杯杯口呈喇叭形，形狀肖似上下倒轉的鈴，故常被稱為「鈴形杯」，為明清兩代流行的款式。由於嘉靖皇帝尊崇道教，故在其統治年間所製的瓷器亦廣泛使用與道教相關的吉祥象徵。作為另一個以字詞的諧音來營造語帶雙關的瓷器，此對酒杯繪有以梅、竹、松環繞的三隻羊及三個太陽的青花圖案。「羊」和「陽」同音，意指《易經》：「正月為泰卦，三陽生於下」──代表冬去春來，陰消陽長，寓意歲首吉祥、萬象更新。  
 
-![Jingdezhen, China (Ming dynasty), Jiajing period, 1522–1566 Porcelain with underglaze blue, height 10.5 cm HKU.C.1957.0196](https://aiha.blob.core.windows.net/images/4d05c15b29c1bfb4a5311ab7c17e438d3431b57d15fec0ff1e203e92c5c3efde.jpg)  
+![Pair of wine cups. Jingdezhen, China (Ming dynasty), Jiajing period, 1522–1566 Porcelain with underglaze blue, height 10.5 cm HKU.C.1957.0196](https://aiha.blob.core.windows.net/images/4d05c15b29c1bfb4a5311ab7c17e438d3431b57d15fec0ff1e203e92c5c3efde.jpg)  
 
 # Jar (guan)  
 
@@ -621,14 +621,14 @@ An inscription at the centre locates the production of this jar to Jingdezhen in
 # 罐  
 
 中國，明嘉靖，一五四五年，或十九世紀  
-青花瓷， $>31\mathrm{~x~}30$ 厘米  
+青花瓷， 31x30 厘米  
 HKU.C.1992.0967  
 
 此為大酒罐。體積特大、飾有精巧花紋的罐通常為御園裝飾物，也是深受十四世紀的中東與東南亞地區歡迎的外銷瓷；類似器皿可見於伊朗的阿爾達比勒神廟、和泰國南奔的瑪哈泰寺。  
 
 中心位置書「大明嘉靖乙巳年江西景德鎮造」款，表明它製於嘉靖二十四年，即一五四五年──不過直到十九世紀，當地仍有燒造相類的罐。青花罐的器型在元明兩代經歷顯著的變化。與十四世紀的大多數同類的低肩、間或配有短手柄的器物相比，此罐之頸部明顯較寬。雖然轉枝花卉紋是明中葉瓷器的典型花紋，但象徵美麗、力量與明宮廷的孔雀紋卻是較特別的。  
 
-![China (Ming dynasty), Jiajing period, 1545, or 19th century Porcelain with underglaze blue, 31 x 30 cm HKU.C.1992.0967](https://aiha.blob.core.windows.net/images/87067f1ffad1402fa68e421a046a73faf20bc9a4323bfba130ab164849dc1e2b.jpg)  
+![Jar (guan). China (Ming dynasty), Jiajing period, 1545, or 19th century Porcelain with underglaze blue, 31 x 30 cm HKU.C.1992.0967](https://aiha.blob.core.windows.net/images/87067f1ffad1402fa68e421a046a73faf20bc9a4323bfba130ab164849dc1e2b.jpg)  
 
 # Kraak plate  
 
@@ -644,7 +644,7 @@ Standard shapes for kraak included bowls, cups and dishes, as well as more speci
 
 碗碟、杯、及較為西式的牛油碟、芥末罐、鹽瓶、和酒埕等，都是「克拉克瓷」的典型種類。深腹、無邊飾的「克拉克瓷」碗碟應以早期中國瓷器為基礎，具白鑞、木或銀模鑲嵌的碟則較為西式。駐中國的荷蘭東印度公司中介，也會恆常地訂造相關的「克拉克瓷」。「克拉克瓷」的質量參差，部分質量較差，但經私人商旅購藏、專為特別顧客所訂製的瓷器，卻又極為精緻。大碟及盤是歐洲收藏中最昂貴的種類。體積較小如這隻從「哈察」號 ( 在一六四三年，一艘沉沒於巴達維亞鄰近海域的中國帆船 )打撈出來的碟，屬較易購藏的類別。  
 
-![ingdezhen, China (Ming dynasty), Chongzhen period, 1628–1644 Porcelain with underglaze blue, diameter 23 cm Hong Kong Maritime Museum, HKMM2014.0010.0001](https://aiha.blob.core.windows.net/images/65bfbd40f754ce4353ca05b8b0a35cda920c0bf0a12669d2abc67bf389e9bf21.jpg)  
+![Kraak plate. Jingdezhen, China (Ming dynasty), Chongzhen period, 1628–1644 Porcelain with underglaze blue, diameter 23 cm Hong Kong Maritime Museum, HKMM2014.0010.0001](https://aiha.blob.core.windows.net/images/65bfbd40f754ce4353ca05b8b0a35cda920c0bf0a12669d2abc67bf389e9bf21.jpg)  
 
 12. While caracca is generally accepted as the root of kraak, other origins have also been proposed, such as the Dutch verb kraken, which means ‘to break’.  
 
@@ -660,7 +660,7 @@ Jingdezhen, China (Ming dynasty), early 17th century Porcelain with underglaze b
 青花瓷，直徑 15 厘米  
 HKU.C.1966.0301  
 
-碗心繪有一隻在林木間，屹立於岩石上的蒼鷹 $^\circ$ 此圖案應取自宋代的花鳥圖，是中國繪畫、陶瓷和其他器物上常見的花紋。象徵堅韌、力量與英勇的蒼鷹矗立於岩石上，或暗寓一位孤軍作戰的英雄。這題材常見於十六世紀初外銷至東南亞的福建漳州器。  
+碗心繪有一隻在林木間，屹立於岩石上的蒼鷹。此圖案應取自宋代的花鳥圖，是中國繪畫、陶瓷和其他器物上常見的花紋。象徵堅韌、力量與英勇的蒼鷹矗立於岩石上，或暗寓一位孤軍作戰的英雄。這題材常見於十六世紀初外銷至東南亞的福建漳州器。  
 
 The central scene on this bowl features an eagle standing on a rock surrounded by trees. Imagery like this is common in Chinese art, much of it drawn from the bird-and-flower painting genre that developed in the Song dynasty, and which found later expression on ceramics and other materials. Associated with boldness, strength and heroism, the eagle shown on a rock may represent a hero standing alone, a subject known on a number of earlier sixteenth-century export wares made at the Zhangzhou kilns in Fujian for export to Southeast Asia.  
 
@@ -672,7 +672,7 @@ The central image is surrounded by a reserve panel pattern typical of kraak porc
 
 Deep bowls with flattened rims were a characteristic export shape. Designed as soup bowls, the wide rim was intended to accommodate large metal spoons that were not used in China. Many examples were made for the Dutch market, often called klapmuts—the Dutch word for fashionable seventeenth-century hats of the same shape. Klapmuts bowls appear extensively in Dutch East India Company shipping records, as well as in paintings, the earliest dating to 1601.  
 
-![Jingdezhen, China (Ming dynasty), early 17th century Porcelain with underglaze blue, diameter 15 cm HKU.C.1966.0301](https://aiha.blob.core.windows.net/images/6765f655e830ad6955e1cff58604e1fbd04d65596c2bafbe5ee5298c0fdb6d04.jpg)  
+![Klapmuts bowl. Jingdezhen, China (Ming dynasty), early 17th century Porcelain with underglaze blue, diameter 15 cm HKU.C.1966.0301](https://aiha.blob.core.windows.net/images/6765f655e830ad6955e1cff58604e1fbd04d65596c2bafbe5ee5298c0fdb6d04.jpg)  
 
 # Kraak-style plate  
 
@@ -690,7 +690,7 @@ Although Europeans failed to produce hard-paste porcelain until the eighteenth c
 
 在十八世紀成功研製出硬質瓷之前，歐洲人早已積極利用陶器來模仿瓷器，如在淺黃色的陶器上，施混合了清澈的鉛釉與氧化錫而成的白色裝飾。此技術應是經摩爾人由伊斯蘭世界傳入歐洲，並在當地廣泛沿用及發展成不同的名稱──荷蘭為「台夫特藍陶」、英國為「台夫特陶器」、法國與德國為「彩陶」，意大利則為「馬略卡陶器」。荷蘭人首次於荷蘭北部的哈倫成功燒製仿中國青花瓷裝飾的陶瓷，乃由一群在一五八五年，安特衛普衰落後，來自佛萊明大區的陶工負責。  
 
-![Delft, the Netherlands, ca. 1670s Tin-glazed earthenware, diameter 32.9 cm Asian Civilisations Museum, 2007-55844 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/c50bdf889836d416edcd1a8943d1be5b0bf27623a94c2ef1062077b10c08d328.jpg)  
+![Kraak-style plate. Delft, the Netherlands, ca. 1670s Tin-glazed earthenware, diameter 32.9 cm Asian Civilisations Museum, 2007-55844 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/c50bdf889836d416edcd1a8943d1be5b0bf27623a94c2ef1062077b10c08d328.jpg)  
 
 # Plate  
 
@@ -706,7 +706,7 @@ The worn edges along the rim of this plate reveals its earthenware body, demonst
 
 45  
 
-![Delft, the Netherlands, ca. 1670s Tin-glazed earthenware, diameter 22.6 cm Asian Civilisations Museum, 2007-55819 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/3ec83084940c701020cf6a78ffc8d366df3b60e9ea43ef324f306bd2b026af88.jpg)  
+![Plate. Delft, the Netherlands, ca. 1670s Tin-glazed earthenware, diameter 22.6 cm Asian Civilisations Museum, 2007-55819 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/3ec83084940c701020cf6a78ffc8d366df3b60e9ea43ef324f306bd2b026af88.jpg)  
 
 # Plate with a coat of arms  
 
@@ -736,7 +736,7 @@ Mounted porcelain took various forms, from small blue-and-white bowls and ewers 
 
 # 金屬鑲嵌碗  
 
-中國景德鎮，清康熙 (1662-1722)；荷蘭，金屬鑲嵌，十七世紀末鍍金青花瓷， $,~15.2~\mathrm{~x~}~21.5$ 厘米亞洲文明博物館，2014-00433  
+中國景德鎮，清康熙 (1662-1722)；荷蘭，金屬鑲嵌，十七世紀末鍍金青花瓷，15.2 x 21.5厘米亞洲文明博物館，2014-00433  
 
 歐洲人起初視瓷器為奇珍異器，與鴕鳥蛋、蛇紋石和椰子等自然獵奇物一樣，並以昂貴的物料鑲嵌於瓷器上，使其更加名貴。正因早期鑲嵌瓷器的貴重與罕有，它們多專屬於皇室和少數貴族家庭，作為耀眼的餐櫥、或「珍奇屋」(德語為 kunstkammer) 內的擺設。  
 
@@ -744,7 +744,7 @@ Mounted porcelain took various forms, from small blue-and-white bowls and ewers 
 
 不論是小巧的青花碗和壺，或青瓷大花瓶和大罐，不同類型的瓷器都能加以鑲嵌裝飾。此碗為外銷瓷，產於中國景德鎮，再於荷蘭添加鑲嵌裝飾。碗外壁以鏤刻的蜂巢及花冠圖案為裝飾，透出碗上的青花折枝花紋。由於製作需時、巧奪天工，故這款附有鏤空外壁的雙層瓷器稱為玲瓏瓷。  
 
-![Jingdezhen, China, Kangxi period, 1662–1722; mounts added in the Netherlands, late 17th century Porcelain with underglaze blue and ormolu mounts, 15.2 x 21.5 cm Asian Civilisations Museum, 2014-00433](https://aiha.blob.core.windows.net/images/21a623605763c1f0deaa0ce6f91b5988d6a00c3f382f6d20a7b1181cb9c6fba2.jpg)  
+![Mounted bowl. Jingdezhen, China, Kangxi period, 1662–1722; mounts added in the Netherlands, late 17th century Porcelain with underglaze blue and ormolu mounts, 15.2 x 21.5 cm Asian Civilisations Museum, 2014-00433](https://aiha.blob.core.windows.net/images/21a623605763c1f0deaa0ce6f91b5988d6a00c3f382f6d20a7b1181cb9c6fba2.jpg)  
 
 # Plate with qilin  
 
@@ -764,7 +764,7 @@ HKU.C.1981.0799
 
 上釉的底部書「玉堂佳器」四字款。玉堂，即翰林院，由學識淵博、通過科舉考試的士人群體所組成的中央機構，亦是士人晉升為朝廷重臣的核心場所。作為地位象徵的玉堂款，在明末瓷器上偶有使用，於順治年間風靡一時，卻在康熙以後漸不流行。  
 
-![Jingdezhen, China (Qing dynasty), Shunzhi period, 1644–1661 Porcelain with underglaze blue, diameter 37 cm HKU.C.1981.0799](https://aiha.blob.core.windows.net/images/7b66b21a6a26256d85660a40607eda37fd42da2059fef59a4a4cf809b75db4b1.jpg)  
+![Plate with qilin. Jingdezhen, China (Qing dynasty), Shunzhi period, 1644–1661 Porcelain with underglaze blue, diameter 37 cm HKU.C.1981.0799](https://aiha.blob.core.windows.net/images/7b66b21a6a26256d85660a40607eda37fd42da2059fef59a4a4cf809b75db4b1.jpg)  
 
 # Vase  
 
@@ -784,7 +784,7 @@ HKU.C.1964.0289
 
 瓶的器型取自商代 ( 約公元前 1600 年至公元前 1050 年 )與周代 ( 約公元前 1046 年至公元前 256 年 ) 的青銅器觚。有別於古代觚的帶稜角的腰部，此瓶圓形的間隔部分是順治晚期及康熙早期所製的瓶之特徵。古董器物如觚的基本造型，在康熙年間受到景德鎮陶工廣泛使用，融入瓷器設計之中。此瓶將觚的器型與文人主題結合，是經仔細的考慮，以吸引文人階層。  
 
-![Jingdezhen, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with underglaze blue, height 46.3 cm HKU.C.1964.0289](https://aiha.blob.core.windows.net/images/6e754324067088e0fc49a6ed11b5b86c99f8a33955bbdebfb692d49bce9f84e5.jpg)  
+![Vase. Jingdezhen, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with underglaze blue, height 46.3 cm HKU.C.1964.0289](https://aiha.blob.core.windows.net/images/6e754324067088e0fc49a6ed11b5b86c99f8a33955bbdebfb692d49bce9f84e5.jpg)  
 
 # Brush pot  
 
@@ -813,13 +813,13 @@ Fascinated by the landscapes they saw in Chinese paintings and ceramics, custome
 # 有蓋糖罌  
 
 英國，約一七八零年  
-陶器 ( 珍珠陶瓷 )， $,~9.9~\mathrm{~x~}11.7$ 厘米  
+陶器 ( 珍珠陶瓷 )， 9.9 x 11.7 厘米  
 亞洲文明博物館，2007-55778  
 Toshio Egawa 伉儷贈  
 
 對中國繪畫和陶瓷上的山水景色甚為驚嘆的西方顧客，希望歐洲製瓷器亦具備同樣的裝飾。但畢竟曾到訪中國的當地工匠寥寥可數，故繪畫師只是憑空想像、畫出甚至連中國人也難以辨認的東方山水景物、人物與動物紋。這糖罌上以線條和交叉線畫成的寶塔和樹木，即為一例。受到當時陶瓷與金屬器上的洛可可風格影響，糖罌以東西合璧的花紋為裝飾，雙耳則為扭紋狀，並配有貼塑葉紋。它屬於一種稱為「珍珠陶瓷」的藍釉灰色陶器。當時英國多間工廠都有投入生產「珍珠陶瓷」，作為中國瓷器的替代品。  
 
-![England, ca. 1780 Earthenware (pearlware), 9.9 x 11.7 cm Asian Civilisations Museum, 2007-55778 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/a862f445f63f44b7a7b74905bea484284346eee99974ec00a8f02bec4d6daeea.jpg)  
+![Covered sugar bowl. England, ca. 1780 Earthenware (pearlware), 9.9 x 11.7 cm Asian Civilisations Museum, 2007-55778 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/a862f445f63f44b7a7b74905bea484284346eee99974ec00a8f02bec4d6daeea.jpg)  
 
 # Pair of plates  
 
@@ -839,11 +839,11 @@ Toshio Egawa 伉儷贈
 
 英國製的錫釉陶器被稱為台夫特陶器，因為其裝飾工藝是以荷蘭台夫特藍陶為藍本。碟上的景色是工匠對中國花紋設計的個人詮釋，而非刻板的模仿──透過繪畫身穿中式長袍的人物、並以中國瓷器常見的山水風景、寶塔和亞洲式的陽傘等，來增添器物的東方韻味。  
 
-![England, mid-18th century, Tin-glazed earthenware, diameter 29.8 cm, Asian Civilisations Museum, 2007-55836, 2007-55853, Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/2fa01adaffedffc59f03cd33eda1402f55478e5d605ba3121ea362333b1ffaeb.jpg)  
+![Pair of plates. England, mid-18th century, Tin-glazed earthenware, diameter 29.8 cm, Asian Civilisations Museum, 2007-55836, 2007-55853, Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/2fa01adaffedffc59f03cd33eda1402f55478e5d605ba3121ea362333b1ffaeb.jpg)  
 
 55  
 
-![England, mid-18th century, Tin-glazed earthenware, diameter 21.6 cm, Asian Civilisations Museum, 2007-55836, 2007-55853, Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/5446f7b85ecab40b69dc35f86288fe49c366c40ff4aa37d70ef7e0c25ef5bc17.jpg)  
+![Pair of plates. England, mid-18th century, Tin-glazed earthenware, diameter 21.6 cm, Asian Civilisations Museum, 2007-55836, 2007-55853, Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/5446f7b85ecab40b69dc35f86288fe49c366c40ff4aa37d70ef7e0c25ef5bc17.jpg)  
 
 # Bowl with brown glaze  
 
@@ -865,7 +865,7 @@ These wares were particularly popular in the Netherlands, although significant q
 
 縱然從瑞典東印度公司「歌德堡」號商船 ( 於一七四五年沉沒 ) 上可見大量瓷器外銷至北歐，這款瓷器卻特別受荷蘭人歡迎，其後更在一七八四年，美國展開對華貿易後，外銷至當地。到了十九世紀初，這種裝飾再度流行，主要見於東南亞外銷瓷。而這隻碗，是從「南京」號─一艘於一七五一年十二月從廣州出發，承載著超過二十三萬件外銷至歐洲市場的瓷器、織品及茶葉的荷蘭東印度公司商船上，打撈出來的。  
 
-![Jingdezhen, China (Qing dynasty), Qianlong period, 1736–1795 Porcelain with underglaze blue and brown glaze, diameter 18.5 cm HKU.C.1987.0914](https://aiha.blob.core.windows.net/images/4ddb4032fb549b3ddf3776b5655719d2bc4985d96f20f92be79af9550472b608.jpg)  
+![Bowl with brown glaze. Jingdezhen, China (Qing dynasty), Qianlong period, 1736–1795 Porcelain with underglaze blue and brown glaze, diameter 18.5 cm HKU.C.1987.0914](https://aiha.blob.core.windows.net/images/4ddb4032fb549b3ddf3776b5655719d2bc4985d96f20f92be79af9550472b608.jpg)  
 
 # Pair of ogee-form bowls  
 
@@ -889,15 +889,16 @@ Delicately decorated with a landscape scene showing willows, blossoming peonies 
 
 Traditional epitaphs were often carved on stones or ceramics. They described the experiences, merits and accomplishments of the deceased and were mostly reserved for imperial officials and their family members. The eulogy on this bowl associates Zou with many of the feminine virtues in dynastic China, such as the Confucian triad of obedience as a daughter, wife and mother. Both ‘willow’ and ‘stay’ are pronounced liu in Chinese, and the presence of the willow at the centre of the bowl was likely an expression of yearning for Zou from her family.  
 
-中國，清乾隆，一七七六年青花瓷， $>~5.5~\mathrm{~X~}~27$ 厘米HKU.C.1991.0939  
+中國，清乾隆，一七七六年青花瓷， 5.5 x 27 厘米HKU.C.1991.0939  
 
 碗為菊瓣形，繪有精緻的山水景色，如楊柳、盛放的牡丹及亭台樓閣。其中最引人注目的，是外壁以墨書寫及鐫刻的墓誌銘。據銘文記載，此碗製於乾隆四十一年，中心底款為「從五一孺人」──一位已歿的孺人，即朝廷命官的妻子 ( 孺人是明清時期，七品或以上官員的母親或妻子的封號 )。孺人姓鄒，乳名菊姑 ( 或因此此碟為菊瓣形 )，銘文詳述其出身與家譜。  
 
 傳統墓誌銘多刻於石頭或陶瓷上，內容詳述死者的生平與功德，絕大多數專為朝廷命官及其親屬而設。此頌詞讚揚鄒氏擁有古代中國所強調的女性德行，如儒家「三從」美德，是一位孝女、賢妻和良母。碗心繪柳樹，「柳」與「留」為諧音，很可能象徵子孫對鄒氏的懷念之情。  
 
-![China (Qing dynasty), Qianlong period, 1776 Porcelain with underglaze blue, 5.5 x 27 cm HKU.C.1991.0939](https://aiha.blob.core.windows.net/images/acb26901e1ced8e7075b006f565ca196c85489e468f64355a9264373080aed7a.jpg)  
+![Flower-shaped bowl. China (Qing dynasty), Qianlong period, 1776 Porcelain with underglaze blue, 5.5 x 27 cm HKU.C.1991.0939](https://aiha.blob.core.windows.net/images/acb26901e1ced8e7075b006f565ca196c85489e468f64355a9264373080aed7a.jpg)  
 
-![](https://aiha.blob.core.windows.net/images/230d8a885381a01d5b55b0dec10ecfee96e5ef6a44620c6efc7e7b80576937b9.jpg)  
+# Blanc de Chine
+![Blanc de Chine](https://aiha.blob.core.windows.net/images/230d8a885381a01d5b55b0dec10ecfee96e5ef6a44620c6efc7e7b80576937b9.jpg)  
 
 The extremely fine, evenly toned porcelains in this section were made in the kilns of Dehua in Fujian province, southern China. Fujian, a tea-growing region, attracted the attention of European merchants in the sixteenth and seventeenth centuries, and many of these objects were brought back to Europe, where this type of white Dehua porcelain became known as blanc de Chine (French for ‘white of China’). They were also exported to Japan in large quantities.  
 
@@ -937,7 +938,7 @@ Early images of a cowled female bodhisattva, dating from the Song dynasty, have 
 
 早期頭披白紗的女性觀音菩薩形像可追溯至宋朝，如甘肅省麥積山石窟 (165 窟 ) 及重慶大足石刻 (136 窟 )。自十七世紀，德化窯所製的佛像就聞名於世，觀音像則是當中最突出的，甚至可能是明萬曆至晚清年間最受歡迎的人物塑像。  
 
-![Dehua, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with ivory glaze, height 23.5 cm HKU.C.1953.0014](https://aiha.blob.core.windows.net/images/a719d7d3a89c0f71a322f6006c90114745e7a007c5ed6c2425d1d5c33de9d3c5.jpg)  
+![Guanyin figure. Dehua, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with ivory glaze, height 23.5 cm HKU.C.1953.0014](https://aiha.blob.core.windows.net/images/a719d7d3a89c0f71a322f6006c90114745e7a007c5ed6c2425d1d5c33de9d3c5.jpg)  
 
 # Virgin and Child  
 
@@ -971,7 +972,7 @@ This figural group shows a lady in layered robes with her right arm raised, seem
 
 中國德化，清代，十八世紀琺瑯彩象牙白釉瓷，高 11 厘米亞洲文明博物館，2010-00362一位身穿多層長袍、高舉右手的女士，看似正在抗拒摟著其纖腰的男士。從塑像上的冷琺瑯痕跡 ( 冷琺瑯是施於經燒製的上釉瓷器上 )，可見工匠以紅彩與黑彩勾勒出人物的雙唇、衣飾、鬢髮及鞋履。這作品應出自歐洲琺瑯彩工匠之手，以模仿漸流行於十八世紀的歐洲、色彩鮮明的中國釉上彩瓷。這類人物塑像是中國德化窯的重要產品，其中外銷瓷的圖案便以當時流行的荷蘭風俗畫為靈感而繪畫。  
 
-![Dehua, China (Qing dynasty), Kangxi period, 1662–1722, porcelain with ivory glaze, height 39 cm, Asian Civilisations Museum, 2011-02085, Gift of Agnes Tan Kim Lwi in memory of Tun Tan Cheng Lock](https://aiha.blob.core.windows.net/images/aa8d878394e368b2b6225a03ff94078cf400f0e91c250c7cca66e6794b23e095.jpg)  
+![Virgin and Child. Dehua, China (Qing dynasty), Kangxi period, 1662–1722, porcelain with ivory glaze, height 39 cm, Asian Civilisations Museum, 2011-02085, Gift of Agnes Tan Kim Lwi in memory of Tun Tan Cheng Lock](https://aiha.blob.core.windows.net/images/aa8d878394e368b2b6225a03ff94078cf400f0e91c250c7cca66e6794b23e095.jpg)  
 
 # Tea bowl and saucer  
 
@@ -982,7 +983,7 @@ Hard-paste porcelain, diameter 7.1 cm (tea bowl), 12 cm (saucer)
 Asian Civilisations Museum, 2007-55790, 2007-55789   
 Gift of Mr and Mrs Toshio Egawa   
 德國邁森，約一七三五年   
-硬質瓷，直徑 7.1 厘米 ( 茶碗 ) $\cdot\phantom{-}12$ 厘米 ( 醬料碟 )   
+硬質瓷，直徑 7.1 厘米 ( 茶碗 ), 12 厘米 ( 醬料碟 )   
 亞洲文明博物館，2007-55790 及 2007-55789   
 Toshio Egawa 伉儷贈  
 
@@ -994,6 +995,8 @@ The moulded prunus branches on the tea bowl were a popular Dehua motif widely em
 
 茶碗上的印花梅花紋，是德化瓷流行使用的圖案，備受歐洲瓷器積極模仿。當花紋傳入西方後偶爾會有所改變，如醬料碟上的植物圖案更像葡萄蔓藤。  
 
+![Tea bowl and saucer. Meissen, Germany, ca. 1735, Hard-paste porcelain, diameter 7.1 cm (tea bowl), 12 cm (saucer), Asian Civilisations Museum, 2007-55790, 2007-55789, Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/82843359f0bfaa8539dd7280994bd43cd508ee4da8d4275a91d7558d26d043ed.jpg)  
+
 # Pair of cups  
 
 # 杯一對  
@@ -1004,9 +1007,7 @@ Dehua, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with clear gla
 上釉瓷，直徑 7.8 厘米  
 HKU.C.1978.0636  
 
-![Meissen, Germany, ca. 1735, Hard-paste porcelain, diameter 7.1 cm (tea bowl), 12 cm (saucer), Asian Civilisations Museum, 2007-55790, 2007-55789, Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/c7dc6b3945098f5fdaae33409a31962309839f826ead889e084f086d577a5544.jpg)  
-
-![Meissen, Germany, ca. 1735, Hard-paste porcelain, diameter 7.1 cm (tea bowl), 12 cm (saucer), Asian Civilisations Museum, 2007-55790, 2007-55789, Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/82843359f0bfaa8539dd7280994bd43cd508ee4da8d4275a91d7558d26d043ed.jpg)  
+![Pair of cups. Dehua, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with clear glaze, diameter 7.8 cm HKU.C.1978.0636](https://aiha.blob.core.windows.net/images/c7dc6b3945098f5fdaae33409a31962309839f826ead889e084f086d577a5544.jpg)  
 
 # Brush washer  
 
@@ -1018,13 +1019,13 @@ Leaf-shaped brush washers from Dehua appear to have inspired the production of s
 
 # 筆洗  
 
-中國德化，清康熙 (1662-1722)上釉瓷， $,~3.2\mathrm{~x~}11.2\$ 厘米HKU.C.1964.0275  
+中國德化，清康熙 (1662-1722)上釉瓷， 3.2 x 11.2 厘米HKU.C.1964.0275  
 
 除了人物塑像和餐具，德化窯亦大量生產各式各樣精巧的文玩瓷。文玩瓷既可作為陳設裝飾，又具實際功用，更能反映擁有者的品味與鑑賞能力，偶爾也成為文學作品及繪畫的題材。文玩瓷的器型多取材於為文人帶來哲學與道德啟發的大自然。此筆洗的蓮瓣形狀，就是源自中國文化中象徵純潔、出汙泥而不染的蓮花。  
 
 歐洲製盛雪酪與熱飲的小杯，很可能受到德化瓷的葉形筆洗啟發。首隻相關的小杯屬邁森瓷廠於一七一一年生產的紅炻瓷，後來則是歐洲各地所產的錫釉硬質白瓷。意大利的多西亞陶瓷廠擅長製造這款瓷器，並於一七六六年至十八世紀末期間大量生產。  
 
-![Dehua, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with clear glaze, 3.2 x 11.2 cm HKU.C.1964.0275](https://aiha.blob.core.windows.net/images/51efbb2310701f539df6c537acca2ddbe3d251e30027b62ec011e4504c66aee6.jpg)  
+![Brush washer. Dehua, China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with clear glaze, 3.2 x 11.2 cm HKU.C.1964.0275](https://aiha.blob.core.windows.net/images/51efbb2310701f539df6c537acca2ddbe3d251e30027b62ec011e4504c66aee6.jpg)  
 
 # Kendi  
 
@@ -1042,15 +1043,16 @@ By the sixteenth century, they were carried farther afield to the Middle East, w
 
 到了十六世紀，軍持遠傳至中東，發展成波斯式軍持或演變成煙管。在十七世紀，它亦經葡萄牙與荷蘭商人抵達歐洲，被當地人視為奇異的裝飾品，而非實用容器。從兩艘計劃前往由荷蘭人控制的巴達維亞，卻在途中沉沒的「白獅」號沉船 (1613) 和「哈察」號 (1643) 中國商船上，即打撈出大量可能會轉售予其他開往歐洲的商船的軍持。  
 
-![Dehua, China (Ming dynasty), 14th century Porcelain with ivory white glaze, 21 x 19.8 cm HKU.C.1978.0635](https://aiha.blob.core.windows.net/images/5017678daa1395b538ba327b3394985e50b4729084cd6ca2176fd980c9bb5b41.jpg)  
-
-![](https://aiha.blob.core.windows.net/images/6d8cfdbfc08e8bfc04389de7378ae027b82a7d9fc53da67d8e39a7fe105cef29.jpg)  
+![Kendi. Dehua, China (Ming dynasty), 14th century Porcelain with ivory white glaze, 21 x 19.8 cm HKU.C.1978.0635](https://aiha.blob.core.windows.net/images/5017678daa1395b538ba327b3394985e50b4729084cd6ca2176fd980c9bb5b41.jpg)  
+ 
 
 # Enamelled porcelain  
 
+![Enamelled porcelain](https://aiha.blob.core.windows.net/images/6d8cfdbfc08e8bfc04389de7378ae027b82a7d9fc53da67d8e39a7fe105cef29.jpg) 
+
 The decoration of ceramics with colourful patterns in China started with sancai or ‘three-colour’ wares from the Tang period. During the late Ming and Qing dynasties, when the trade in porcelain between China and the West reached new heights, porcelains decorated in red, green and yellow with outlines of blackish cobalt or underglaze blue called wucai (‘five-colour’) became the most widely produced polychrome wares. Depending on the prominence of certain colours, they came to be known in Europe by names such as famille verte (‘green family’) and famille rose (‘rose family’), after terms used by the French Jesuit and ceramic collector Albert Jacquemart in 1873.  
 
-Colours were added to porcelain by applying enamels (powdered glass mixed with pigments) to unglazed clay that had been through one firing or to glazed ceramics, sometimes with underglaze decoration in blue applied beforehand. The enamels were then fused to the surface through a second firing at a relatively low temperature of about $900^{\circ}\mathrm{C}$ . Major advancements in the production of polychrome porcelain were achieved in the early eighteenth century, driven by the support of the Kangxi emperor—a patron of the arts who encouraged experimentation at the imperial kilns in Jingdezhen—and by the arrival of European Jesuits at court, who brought with them knowledge of Western chemistry. These innovations included the use of a greater percentage of kaolin in the firing process, the subtle use of shading in new colours like pink and white, and changes to the composition and firing of glazes that led to the invention of complex hues like ‘peachbloom’ and ‘oxblood red’.  
+Colours were added to porcelain by applying enamels (powdered glass mixed with pigments) to unglazed clay that had been through one firing or to glazed ceramics, sometimes with underglaze decoration in blue applied beforehand. The enamels were then fused to the surface through a second firing at a relatively low temperature of about 900°C . Major advancements in the production of polychrome porcelain were achieved in the early eighteenth century, driven by the support of the Kangxi emperor—a patron of the arts who encouraged experimentation at the imperial kilns in Jingdezhen—and by the arrival of European Jesuits at court, who brought with them knowledge of Western chemistry. These innovations included the use of a greater percentage of kaolin in the firing process, the subtle use of shading in new colours like pink and white, and changes to the composition and firing of glazes that led to the invention of complex hues like ‘peachbloom’ and ‘oxblood red’.  
 
 Enamelled porcelain proved hugely successful in Europe, and large amounts were purchased by the Dutch and British East India companies in the seventeenth century. This trade was briefly interrupted when the Qing dynasty cut off porcelain exports from 1644 to 1684, at which point traders turned to the Arita kilns in Japan. The brightly coloured objects they purchased from there were popular enough that Chinese makers were forced to imitate Japanese styles when Chinese exports resumed. European manufactories later produced their own synthesised versions, incorporating stylistic features  
 
@@ -1072,7 +1074,6 @@ Many different types of enamelled porcelain were also produced for export to par
 
 在十八世紀和十九世紀，不同類型的釉上彩瓷外銷至亞洲各地，如自明末早已成為重要貿易商品、裝飾豐富亮麗的漳州器。部分外銷瓷的色澤和圖案都非常獨特，並只售予特定的市場，如專屬暹羅宮廷、色澤對比強烈鮮明的「碧查龍」(Bencharong 源自梵文「五種顏色」之意，即五彩 ) 印度教與佛教塑像，和專為海峽殖民地的土生華人群體而製、充滿吉祥意味的亮麗粉紅、綠和黃色的「娘惹器」。  
 
-![Jingdezhen, China (Ming dynasty), Wanli period, 1573–1620 Porcelain with underglaze blue and overglaze enamels, diameter 15.5 cm HKU.C.1964.0274](https://aiha.blob.core.windows.net/images/3f1692d12aa636318a499dcc9935bfa98af78df9032ac98a35d75eea52e14c64.jpg)  
 
 # Bowl with wucai enamels  
 
@@ -1081,6 +1082,8 @@ Jingdezhen, China (Ming dynasty), Wanli period, 1573–1620 Porcelain with under
 # 五彩碗  
 
 中國景德鎮，明萬曆 (1573-1620)青花釉上彩瓷，直徑 15.5 厘米HKU.C.1964.0274  
+
+![Bowl with wucai enamels. Jingdezhen, China (Ming dynasty), Wanli period, 1573–1620 Porcelain with underglaze blue and overglaze enamels, diameter 15.5 cm HKU.C.1964.0274](https://aiha.blob.core.windows.net/images/3f1692d12aa636318a499dcc9935bfa98af78df9032ac98a35d75eea52e14c64.jpg) 
 
 # Pair of plates with wucai enamels  
 
@@ -1094,11 +1097,11 @@ Despite the name, wucai porcelain could be decorated with fewer or more than fiv
 
 中國景德鎮，明萬曆 (1573-1620)青花釉上彩瓷，直徑 11 厘米HKU.C.1959.0278  
 
-這些五彩碗碟以釉下藍勾勒線條、釉上紅、黃、綠彩為裝飾。五彩技術始於明嘉靖年間，成熟於萬曆時期 $^\circ$ 這些君主都委託御窯與民窯生產各式各樣的五彩瓷，這件內壁繪御用的五爪金龍、底款書萬曆年款的碗，應為一例。  
+這些五彩碗碟以釉下藍勾勒線條、釉上紅、黃、綠彩為裝飾。五彩技術始於明嘉靖年間，成熟於萬曆時期。這些君主都委託御窯與民窯生產各式各樣的五彩瓷，這件內壁繪御用的五爪金龍、底款書萬曆年款的碗，應為一例。  
 
 雖名為「五彩」，但五彩瓷實際上可擁有少於或多於五種顏色。明代彩繪技術豐富了瓷器的色澤變化，但顏色的色階和明暗變化仍有所限。康熙年間，在五彩基礎上研製出來、透過添加玻璃白 ( 源自含鉛化合物 )、和從膠態金提取的半透明紅寶石粉而成的粉彩，更成為深受歐洲市場歡迎的新技術。  
 
-![Jingdezhen, China (Ming dynasty), Wanli period, 1573–1620 Porcelain with underglaze blue and overglaze enamels, diameter 11 cm HKU.C.1959.0278](https://aiha.blob.core.windows.net/images/2df6df71c8f655bf373a77795e70412ee71d4bef857ee74ffaa407fa3ce7598d.jpg)  
+![Pair of plates with wucai enamels. Jingdezhen, China (Ming dynasty), Wanli period, 1573–1620 Porcelain with underglaze blue and overglaze enamels, diameter 11 cm HKU.C.1959.0278](https://aiha.blob.core.windows.net/images/2df6df71c8f655bf373a77795e70412ee71d4bef857ee74ffaa407fa3ce7598d.jpg)  
 
 # Pair of ko-akae plates  
 
@@ -1120,7 +1123,7 @@ Other names for ko-akae include Tenkei akae, based on their prolific production 
 
 由於產自明天啟年間，故「古赤繪」又名「天啟赤繪」。日本人曾認為這款瓷器產於南京，故又稱之為「南京赤繪」。由於歐洲人偏愛精緻而纖細的釉上彩瓷，故「古赤繪」甚少外銷至歐洲。  
 
-![China (Ming dynasty), Tianqi period, 1621–1627 Porcelain with overglaze enamels, width 18.5 cm HKU.C.1978.062](https://aiha.blob.core.windows.net/images/0203b10c2a64d16e9633eb0510f2bab8a140265b6ec3fd53718529b7d76463e9.jpg)  
+![Pair of ko-akae plates. China (Ming dynasty), Tianqi period, 1621–1627 Porcelain with overglaze enamels, width 18.5 cm HKU.C.1978.062](https://aiha.blob.core.windows.net/images/0203b10c2a64d16e9633eb0510f2bab8a140265b6ec3fd53718529b7d76463e9.jpg)  
 
 13. In Chinese art, luohans are often represented both collectively or as individuals, but in Japanese art they are more commonly represented singly.  
 
@@ -1137,14 +1140,14 @@ Porcelain with predominantly green and yellow designs came to be known as famill
 # 碗  
 
 中國，清代，十七世紀末或十八世紀初  
-釉上彩瓷， $,~8.6\mathrm{~x~}$ 19 厘米  
+釉上彩瓷， 8.6 x 19 厘米  
 HKU.C.1972.0432  
 
 精美透明的綠釉彩之創造是彩瓷發展的重要里程碑，為既有的五彩色調，即黃、紅、綠、茄皮紫和釉下藍錦上添花。具有不同色階、釉順滑澄澈、裝飾細膩的綠釉瓷器，既極受清代宮廷喜愛，亦受十七世紀的歐洲宮廷青睞。碗以當時極為流行的圖案裝飾，在繪有波濤洶湧的綠地海浪紋上，呈現出駿馬、花卉、吉祥圖案。繪師刻意不為浪頭與部分駿馬填色，以顯出底下的白瓷。  
 
 十九世紀末的歐洲人稱這種以綠色與黃色為主的瓷器為famille verte，意即「綠色家族」。以這種釉彩為裝飾的花瓶、人物和動物塑像，亦常見於當時歐洲的拍賣行與收藏紀錄。收藏家與學者羅拔．霍布森早年為大英博物館所藏中國陶瓷而寫的圖錄，證明這款瓷器曾風靡歐洲。許多古物收藏家如喬治．薩廷、歐內斯．格蘭迪迪耶和安東尼．羅謝爾特等，都是以收藏大量這類瓷器聞名。  
 
-![China (Qing dynasty), late 17th or early 18th century Porcelain with overglaze enamels, 8.6 x 19 cm HKU.C.1972.0432](https://aiha.blob.core.windows.net/images/d54179daa975e8c38fdd0e9a5c5f2a20a5e9d94035a39cd13a2780c0100ac22f.jpg)  
+![Bowl. China (Qing dynasty), late 17th or early 18th century Porcelain with overglaze enamels, 8.6 x 19 cm HKU.C.1972.0432](https://aiha.blob.core.windows.net/images/d54179daa975e8c38fdd0e9a5c5f2a20a5e9d94035a39cd13a2780c0100ac22f.jpg)  
 
 # Vase  
 
@@ -1174,7 +1177,7 @@ The pictorial decoration on these objects resembles literati-style landscape pai
 
 Common subjects for such objects include historical characters modelled after illustrations in woodblock-print plays and novels. Literati themes were also popular, such as the scene of scholars enjoying leisurely activities depicted on the brush pot, or the scholarly objects and antiques depicted in panels on the second vase.  
 
-![Jingdezhen, China (Qing dynasty) Kangxi period, 1662–1722 Porcelain with overglaze enamels, height 48.2 cm HKU.C.1972.0437](https://aiha.blob.core.windows.net/images/901842fd05b2bed54d04f69ad998fc375c1f754f8f1964f840715d386bc3dcad.jpg)  
+![Vase. Jingdezhen, China (Qing dynasty) Kangxi period, 1662–1722 Porcelain with overglaze enamels, height 48.2 cm HKU.C.1972.0437](https://aiha.blob.core.windows.net/images/901842fd05b2bed54d04f69ad998fc375c1f754f8f1964f840715d386bc3dcad.jpg)  
 
 這類器物的主題普遍取材自雕板印刷戲劇、和小說插圖的歷史人物。文人主題亦是非常流行，如筆筒上所繪的文人雅集，或第二件瓶上開光內的文玩與博古圖案。  
 
@@ -1190,7 +1193,7 @@ Delft, the Netherlands, ca. 1710 Tin-glazed earthenware, diameter 35.7 cm Asian 
 
 This Dutch plate is entirely of European origin but decorated in a predominantly Chinese style. The overall decoration imitates Chinese famille verte porcelain, with stylised scroll and flower motifs mostly in green. The floral and scroll borders are arranged in a manner that seems inspired by kraak porcelain. The central figure is of European invention and represents a personification of abundance holding a richly filled cornucopia.  
 
-Delft potters excelled at painting Western ceramic forms with Asian motifs. These luxury goods were produced in increasing numbers and competed with imported Chinese porcelains. Delftware inspired by Chinese originals persisted from about 1630 to the mid-eighteenth century, and since about 1640, Delft potters began using personal monograms and distinctive factory marks as trademarks to distinguish their work, like a blue $^{\mathrm{~\small~K~}}$ with a dot on the underside of this plate.  
+Delft potters excelled at painting Western ceramic forms with Asian motifs. These luxury goods were produced in increasing numbers and competed with imported Chinese porcelains. Delftware inspired by Chinese originals persisted from about 1630 to the mid-eighteenth century, and since about 1640, Delft potters began using personal monograms and distinctive factory marks as trademarks to distinguish their work, like a blue K with a dot on the underside of this plate.  
 
 Large flat plates like this one are also called ‘chargers’. They were often used as decorative accessories in well-appointed interiors. The lack of wear on this example suggests that it served an ornamental function. It may have been placed on top of a buffet or cabinet, by itself or with additional pieces of European and Asian ceramics, or brass, pewter or silver vessels.  
 
@@ -1204,7 +1207,7 @@ Large flat plates like this one are also called ‘chargers’. They were often 
 
 這種體積較大的平碟也稱為「盤」，通常作為傢俱齊全的居室裝飾品。此碟保存得極為完好，表示它應是置於碗櫥或櫥櫃的陳設用瓷。它既可單獨擺放，亦可與其他歐洲及亞洲陶瓷、或以黃銅、錫鑞或銀所製的容器一同陳列。  
 
-![Delft, the Netherlands, ca. 1710 Tin-glazed earthenware, diameter 35.7 cm Asian Civilisations Museum, 2007-55840 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/1519b0e949a2673b3565d92fdc7c852375f5f896162556372e98d0a0cf747a7b.jpg)  
+![Plate. Delft, the Netherlands, ca. 1710 Tin-glazed earthenware, diameter 35.7 cm Asian Civilisations Museum, 2007-55840 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/1519b0e949a2673b3565d92fdc7c852375f5f896162556372e98d0a0cf747a7b.jpg)  
 
 # Tea bowl  
 
@@ -1242,7 +1245,7 @@ The Worcester porcelain factory distinguished itself from other manufactories in
 
 由於烏斯特瓷廠製瓷時會加入大量的皂石，故其產品較其他英國瓷廠的更為堅硬，也更易適應溫度的急劇變化。  
 
-![Worcester, England, 1770s Soft-paste porcelain, diameter 22.2 cm Asian Civilisations Museum, 2007-55811 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/641abe0e5a0c631cbae430ee0d0db85a45e7e1daf65be2c4c7e79d2d1b782a54.jpg)  
+![Plate. Worcester, England, 1770s Soft-paste porcelain, diameter 22.2 cm Asian Civilisations Museum, 2007-55811 Gift of Mr and Mrs Toshio Egawa](https://aiha.blob.core.windows.net/images/641abe0e5a0c631cbae430ee0d0db85a45e7e1daf65be2c4c7e79d2d1b782a54.jpg)  
 
 # Two bowls  
 
@@ -1273,7 +1276,7 @@ Chinese figures frequently appear on porcelain made in English factories in the 
 
 中國人物經常出現在一七零零年代英國製的瓷器上。部分瓷器的仿真度極高，或用來代替珍貴的中國進口瓷器套裝中，已損毀或遺失的瓷器。其他陶瓷品的設計自由隨意，如這件鳥喙形罐和咖啡杯上持扇女子與男孩。圖案畫風簡約得如漫畫，仿佛人物的面部輪廓和鬢髮，都只是以寥寥數筆勾勒。這種繪畫手法是位於利物浦克帕勒斯的重要瓷廠──約翰．帕寧頓工廠的彩瓷特色。  
 
-![Probably Copperas Hill, Liverpool, England, ca. 1780 Soft-paste porcelain, height 9.1 cm Asian Civilisations Museum, 2007-55782](https://aiha.blob.core.windows.net/images/fc40a4867d12131461d141312af5380dfa47e632d6eb5936f53dcb31861fb3ba.jpg)  
+![Two bowls. Probably Copperas Hill, Liverpool, England, ca. 1780 Soft-paste porcelain, height 9.1 cm Asian Civilisations Museum, 2007-55782](https://aiha.blob.core.windows.net/images/fc40a4867d12131461d141312af5380dfa47e632d6eb5936f53dcb31861fb3ba.jpg)  
 
 # Vase and plate  
 
@@ -1294,7 +1297,7 @@ The complex three-stage decoration and firing of such objects made them luxuriou
 
 由於灑藍釉描金釉上彩瓷的製作工藝複雜，需要進行三次裝飾和燒造，故這類瓷器是奢侈昂貴的外銷瓷，所繪的圖案亦令歐洲的客人著迷。瓶身開光內身形纖瘦的女士，是康熙外銷瓷最流行的圖案之一， 荷蘭語稱之為 LangeLijs，後來英語則演變成Long Eliza，即「修長的伊利莎」。歐洲多間瓷廠都爭相仿製此圖案，尤其多見於烏斯特瓷廠在一七六零年代所製的碗碟。  
 
-![Jingdezhen, China (Qing dynasty) Kangxi period, 1662–1722, Porcelain with powder blue glaze, gilding and overglaze enamels, height 43.3 cm, diameter 27 cm, HKU.C.1954.0136, HKU.C.1976.0623](https://aiha.blob.core.windows.net/images/da0786a63ed38c936dfdb1a80357b36493313ffd1eb0abddc2f74ca1b41a8421.jpg)  
+![Vase and plate. Jingdezhen, China (Qing dynasty) Kangxi period, 1662–1722, Porcelain with powder blue glaze, gilding and overglaze enamels, height 43.3 cm, diameter 27 cm, HKU.C.1954.0136, HKU.C.1976.0623](https://aiha.blob.core.windows.net/images/da0786a63ed38c936dfdb1a80357b36493313ffd1eb0abddc2f74ca1b41a8421.jpg)  
 
 # Brush pot  
 
@@ -1324,7 +1327,7 @@ Like the brush pot, this vase is inscribed with an essay accompanied by a landsc
 
 正如上述的筆筒，這件棒槌瓶上有一篇以精緻華麗的描金裝飾書寫的《滕王閣序》，配以一幅描繪漁夫與農夫站在一座名為「滕王閣」的亭台樓閣附近的山水畫。《滕王閣序》為唐代文人王勃 (650-676) 所撰。在前往交趾( 即今日越南北部 ) 探望父親時，王勃偶遇慶滕王閣重修之宴席，並於席間書此文，感慨自己懷才不遇。最後他未得見父親便在南海意外溺斃，死時只得廿六歲。  
 
-![China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with powder blue glaze and gilding, height 44 cm HKU.C.1953.0012](https://aiha.blob.core.windows.net/images/9d9b9ede1c7bd8511f011a1ffa7974d15944b1c8ee5cc7fe850025f10f68ac58.jpg)  
+![Bush pot. China (Qing dynasty), Kangxi period, 1662–1722 Porcelain with powder blue glaze and gilding, height 44 cm HKU.C.1953.0012](https://aiha.blob.core.windows.net/images/9d9b9ede1c7bd8511f011a1ffa7974d15944b1c8ee5cc7fe850025f10f68ac58.jpg)  
 
 # Pair of mounted jars  
 
@@ -1336,13 +1339,13 @@ This pair of jars combines some of the best features of the decorative arts of e
 
 This pair of vessels demonstrates the high regard for fine Chinese porcelain at the European courts. In France, the earliest recorded Chinese (blue-and-white) ceramic object reached the court of Henry II (1519–1559) via Constantinople, a gift from Suleiman the Magnificent (1494–1566), Sultan of the Ottoman Empire. Further gifts presented by the Siamese ambassador Phra Narai (1633– 1688) to Louis XIV (1638–1715) in 1686, and objects imported by the French East India Company (since 1664) helped spread a fashion for such exotica. The intense blue of these Chinese jars may well have been an inspiration for the Sevres blue for which the French royal manufactory became so famous later in the eighteenth century.  
 
-中國景德鎮，清乾隆 (1736-1795)；法國鑲飾銅鎏金，十八世紀或十九世紀鑲飾銅鎏金瓷，45 ${\bf X}$ 28 厘米亞洲文明博物館，2014-00709  
+中國景德鎮，清乾隆 (1736-1795)；法國鑲飾銅鎏金，十八世紀或十九世紀鑲飾銅鎏金瓷，45 x 28 厘米亞洲文明博物館，2014-00709  
 
 這一對罐子揉合了十八世紀中國與歐洲最優秀的裝飾藝術工藝。流線形的灑藍釉瓷罐造型優雅，其上精緻的龍形銅鎏金鑲嵌裝飾，雕工精細，屬法國國王路易十五(1710-1774) 時期的作品。當時進口的中國瓷器通常都會作進一步加工，按法國洛可可的風格特色與典雅的藝術造型，為瓷器鑲以華麗的銅鎏金飾，使陌生的舶來品更符合歐洲室內設計之用。當時瓷器鑲嵌金屬的加工工序，則由擅於營銷奢侈品、擁有廣闊人脈如熟悉銀器匠、工匠和裝飾工匠的商人 ( 法文為 marchands-merciers) 負責。  
 
-此對罐子呈現出歐洲宮廷對精緻的中國瓷器之高度重視。傳入法國境內最早的中國陶瓷紀錄，是由鄂圖曼王朝的蘇丹蘇萊曼一世 (1494-1566) 所贈、經君士坦丁堡傳入法國亨利二世 (1519-1559) 宮廷的青花瓷。其後暹羅國王那萊王 (1633-1688) 於一六八六年遣使法國，將更多的青花瓷贈予路易十四 (1638-1715)。自一六六四年，當法國東印度公司經營中國瓷器貿易後，令此風尚席捲法國 $^\circ$ 這一對罐子上濃厚的藍色色澤，或曾經啟發在十八世紀聞名世界的法國塞爾夫皇家瓷器製造廠，所出產的塞爾夫藍釉瓷。  
+此對罐子呈現出歐洲宮廷對精緻的中國瓷器之高度重視。傳入法國境內最早的中國陶瓷紀錄，是由鄂圖曼王朝的蘇丹蘇萊曼一世 (1494-1566) 所贈、經君士坦丁堡傳入法國亨利二世 (1519-1559) 宮廷的青花瓷。其後暹羅國王那萊王 (1633-1688) 於一六八六年遣使法國，將更多的青花瓷贈予路易十四 (1638-1715)。自一六六四年，當法國東印度公司經營中國瓷器貿易後，令此風尚席捲法國。這一對罐子上濃厚的藍色色澤，或曾經啟發在十八世紀聞名世界的法國塞爾夫皇家瓷器製造廠，所出產的塞爾夫藍釉瓷。  
 
-![Jingdezhen, China, Qianlong period, 1736–1795; mounts added in France, 18th or 19th century Porcelain with gilt-bronze mounts, 45 x 28 cm Asian Civilisations Museum, 2014-00709](https://aiha.blob.core.windows.net/images/01cbf18d62a36ead897443a81e752fccbbb9bc3db9f8ab962232368056220d6c.jpg)  
+![Pair of mounted jars. Jingdezhen, China, Qianlong period, 1736–1795; mounts added in France, 18th or 19th century Porcelain with gilt-bronze mounts, 45 x 28 cm Asian Civilisations Museum, 2014-00709](https://aiha.blob.core.windows.net/images/01cbf18d62a36ead897443a81e752fccbbb9bc3db9f8ab962232368056220d6c.jpg)  
 
 # Pair of custard cups  
 
@@ -1375,7 +1378,7 @@ HKU.C.1997.1288a-b
 
 這一對杯的中心圖案，是以粉彩繪畫。此工藝始於康熙晚年，由在紫禁城養心殿工作的工匠及耶穌會士共同研製。粉彩的標誌性顏色淡粉紅色和紅色，是由以膠態金所提取的寶石紅與玻璃白混合而成，色階變化多端、明暗有致。粉彩技術成熟的時間，大約與十八世紀、法國研製的「杜巴利玫瑰紅」釉彩 ( 因路易十五 (1710-1774) 的情婦、塞爾夫皇家瓷器製造廠的贊助人杜巴利伯爵夫人而得名 )同期。  
 
-![Jingdezhen, China (Qing dynasty), Qianlong period, ca. 1790s, Porcelain with underglaze and overglaze enamels and gilding, height 9 and 8.7 cm, Donated in memory of Miss Beryl Robina Wright, HKU.C.1997.1288a-b](https://aiha.blob.core.windows.net/images/4924e982d1d07b76d34fc73898fc422e32836d74455eba577f7e660c50c6650d.jpg)  
+![Pair of custard cups. Jingdezhen, China (Qing dynasty), Qianlong period, ca. 1790s, Porcelain with underglaze and overglaze enamels and gilding, height 9 and 8.7 cm, Donated in memory of Miss Beryl Robina Wright, HKU.C.1997.1288a-b](https://aiha.blob.core.windows.net/images/4924e982d1d07b76d34fc73898fc422e32836d74455eba577f7e660c50c6650d.jpg)  
 
 # Bowl with doucai enamels  
 
@@ -1409,7 +1412,7 @@ This plate depicts a red five-clawed dragon writhing in mid-air above blue swirl
 
 14. 最早的以鴛鴦和蓮花交替呈現為裝飾的釉上彩瓷碗可追溯至明嘉靖年間，如大英博物館所藏的鐵紅、綠及黃彩的鴛鴦臥蓮紋碗 (Harrison-Hall2001, no. 9:101.)。  
 
-![China (Qing dynasty), Daoguang period, 1821–1850 Porcelain with blue underglaze and overglaze enamels, diameter 17.5 cm HKU.C.1978.0637](https://aiha.blob.core.windows.net/images/a1c6b78aa79c8cdd382f8317bb318d2bcf6c0470cdd9b0949ed92e219f178cd4.jpg)  
+![Bowl with doucai enamels. China (Qing dynasty), Daoguang period, 1821–1850 Porcelain with blue underglaze and overglaze enamels, diameter 17.5 cm HKU.C.1978.0637](https://aiha.blob.core.windows.net/images/a1c6b78aa79c8cdd382f8317bb318d2bcf6c0470cdd9b0949ed92e219f178cd4.jpg)  
 
 # Commemorative plate  
 
@@ -1439,17 +1442,19 @@ Marked with the reign marks of the Xianfeng emperor, the plate represents a rare
 
 # 粉彩碟  
 
-中國景德鎮，清咸豐 (1851-1861)釉上彩瓷， $\rangle~17~\mathrm{~x~}~2.8$ 厘米HKU.C.1981.0856  
+中國景德鎮，清咸豐 (1851-1861)釉上彩瓷，17 x 2.8 厘米HKU.C.1981.0856  
 
 這隻造型不規則的碟上，繪有兩位在山明水秀的景致之間砌磋圍棋的文人。一位可能是侍從的年輕男子正擔著食物，跨越橋樑。前景的梅樹和菊花，乃是以粉彩的標誌性顏色淡粉紅色來點綴。  
 
 碟的底部有「大清咸豐年製」款。咸豐一朝經歷太平天國的叛亂，叛亂分子於一八五零年代佔領南方大部分地區，包括景德鎮，更於一八五三年燒毀景德鎮窯場。直到一八六四年，太平天國被平定後，窯場才得以重建。不過當時的中國仍受歐洲列強虎視眈眈，故政局動盪的背景使這件咸豐年製的瓷碟更顯珍貴。  
 
-![Spode, England, ca. 1822 Stone china with overglaze enamels, diameter 25.7 cm Hong Kong Maritime Museum, HKMM2013.0040.0001](https://aiha.blob.core.windows.net/images/63a0b3846af5c7f47d0784675e58451741789a8235537ae4b8f4b3086cea65cf.jpg)  
+![Commemorative plate. Spode, England, ca. 1822 Stone china with overglaze enamels, diameter 25.7 cm Hong Kong Maritime Museum, HKMM2013.0040.0001](https://aiha.blob.core.windows.net/images/63a0b3846af5c7f47d0784675e58451741789a8235537ae4b8f4b3086cea65cf.jpg)  
+ 
 
-![Jingdezhen, China (Qing dynasty), Xianfeng period, 1851–1861 Porcelain with overglaze enamels, 17 x 2.8 cm HKU.C.1981.0856](https://aiha.blob.core.windows.net/images/56a040f3b06d0b5bef8ba5c714968d2f0f8578fb796ba8548348df63baa2af29.jpg)  
+# Qingbai and celadon 
 
-# Qingbai and celadon  
+
+![Qingbai and celadon](https://aiha.blob.core.windows.net/images/56a040f3b06d0b5bef8ba5c714968d2f0f8578fb796ba8548348df63baa2af29.jpg) 
 
 Centuries before the flowering of blue-and-white wares in the fourteenth century, large kiln sites in northern and southern China were producing glazed porcelain and stoneware in various shades of blue, green and white, which were adorned with elegant incised decoration. Some of the most famous of these include qingbai (‘green-white’), a translucent porcelain with a bluish-green glaze produced at kiln complexes in Jingdezhen and Jizhou, and celadon, a type of porcelain or stoneware with an olive-green glaze that takes its name from a character with a distinctive outfit in L’Astrée, a seventeenthcentury French comedy. Similar in colour to valuable jade, these ceramics were among the most highly regarded in China—particularly celadon from the Longquan kilns in Lishui, Zhejiang province, which supplied the Southern Song court after the collapse of the northern dynasty in 1127. Today some scholars prefer the term ‘greenware’ for these ceramics to avoid using arbitrary Western nomenclature.  
 
@@ -1479,7 +1484,7 @@ This absence was most likely the result of changing fashions in Asia. By the tim
 
 15. 在十八世紀，青白瓷也稱作「影青 」。 另 有 理 論 指 出，celadon 一字可能是埃宥比王朝的蘇丹「薩拉丁」(Saladin) 的訛傳。這位薩拉丁於一一七一年，曾下令運送四十件陶瓷予敘利亞的蘇丹。另一說法則認為celadon 可能源自梵文 silan 及 dhara，即「綠色」和「石頭」。  
 
-![China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, diameter 22 cm HKU.C.1994.1000](https://aiha.blob.core.windows.net/images/00a242ea7c3e51c530b9e65b54db7632be3a52d5c913a509656daa511b7f7ad4.jpg)  
+![Bowl with scrolling florals. China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, diameter 22 cm HKU.C.1994.1000](https://aiha.blob.core.windows.net/images/00a242ea7c3e51c530b9e65b54db7632be3a52d5c913a509656daa511b7f7ad4.jpg)  
 
 # Bowl with scrolling florals  
 
@@ -1503,7 +1508,7 @@ Qingbai wares were produced in a variety of forms for the domestic market, inclu
 
 為迎合本地需求，青白瓷的款式豐富多樣，既有碗碟、茶壺等日用器，亦有精緻的人物塑像和罐等明器。雖然青白瓷一般不屬御器，卻深受宋代鑑賞家的喜愛；如陶瓷史學家蔣祈所著的《陶記》(1214-1234)，曾將青白瓷比喻成美玉。宋趙汝适 (1170-1231) 的《諸蕃志》──一本成書於十三世紀，記錄東南亞與印度洋等域外貢品與商品貿易的著作中，亦提及青白瓷深受爪哇各地的商旅歡迎。  
 
-![China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, diameter 22 cm HKU.C.1989.0958](https://aiha.blob.core.windows.net/images/da3f47ad8d829cc717d8c7003e3dd95b89f59d0693f5674e9f62c597e674ec98.jpg)  
+![Foliate bowl with scrolling florals. China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, diameter 22 cm HKU.C.1989.0958](https://aiha.blob.core.windows.net/images/da3f47ad8d829cc717d8c7003e3dd95b89f59d0693f5674e9f62c597e674ec98.jpg)  
 
 # Bowl  
 
@@ -1517,7 +1522,7 @@ Adopting a technique used to manufacture Ding wares in northern China, qingbai b
 
 仿照中國北部定窯的覆燒法，陶匠將青白瓷碗碟倒扣在層層相疊的支圈上燒造，能大為節省窯內空間，是大量生產日用瓷與外銷瓷的關鍵。此法以容器口部為支撐，使力度平均分佈，既可防止器物變形，又有利於燒造纖薄的器物。為了避免碗碟於燒造過程中粘附於窯，故口沿多無釉，予人粗糙、尚未完成的感覺。故陶匠偶爾在無釉的位置加添銀或銅稜扣，此碗即為一例。  
 
-![China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, copper, diameter 20.5 cm HKU.C.2009.1810](https://aiha.blob.core.windows.net/images/84529c9af795787f8ec21512c87ffb3e5a216caee79a9f86c6e61ad0b1563891.jpg)  
+![Bowl. China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, copper, diameter 20.5 cm HKU.C.2009.1810](https://aiha.blob.core.windows.net/images/84529c9af795787f8ec21512c87ffb3e5a216caee79a9f86c6e61ad0b1563891.jpg)  
 
 # Jar  
 
@@ -1529,13 +1534,13 @@ In the Song dynasty, educated men demonstrated their cultural refinement by coll
 
 # 罐  
 
-中國，南宋 (1127-1279)青白瓷， $>7.1\mathrm{~x~}$ 10 厘米HKU.C.1994.1001  
+中國，南宋 (1127-1279)青白瓷， 7.1 x 10 厘米HKU.C.1994.1001  
 
 這款青白罐仿照柳斗──一種以籐或柳條編成的穀物量器而塑造。此類仿製品始於唐代，初以金屬製作，其後則以陶器和炻器為主。雖然耀州窯和贛州窯偶有出產其他釉色的柳斗形陶瓷，屬青白瓷的卻較為罕見。從以韓國、日本，甚至東南亞的港口為目的地，卻於一三二三年在韓國新安海域沉沒的中國貨船上，亦發現到一件贛州窯柳斗形青白瓷。  
 
 宋代尚古之風盛行，文人熱衷於鑑賞與收藏古物，並著有與玉器和青銅器相關的專書以展現其文化修養。為迎合富裕客人的喜好，當時的工匠會以其他物料來重現古物。這些器物的功用隨新用家而改變，故此罐應為香爐或盛放祭品的容器，而非農具。  
 
-![China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, 7.1 x 10 cm HKU.C.1994.1001](https://aiha.blob.core.windows.net/images/b68cc9f94d51dd848af11cd216365affaa967e3d6ea3346fcb43c5e80c9bf4cb.jpg)  
+![Jar. China (Southern Song dynasty), 1127–1279 Porcelain with white-green glaze, 7.1 x 10 cm HKU.C.1994.1001](https://aiha.blob.core.windows.net/images/b68cc9f94d51dd848af11cd216365affaa967e3d6ea3346fcb43c5e80c9bf4cb.jpg)  
 
 # Funerary jar  
 
@@ -1557,7 +1562,7 @@ The jar features the characteristic thick, translucent and richly textured celad
 
 16. 一對相同的穀倉罐可見於大維德中國藝術基金會收藏 (Medley 1977, pl.IV, no. 36)。  
 
-![Longquan, China (Southern Song dynasty), 1127–1279 Stoneware with celadon glaze, height 23 cm HKU.C.1996.1076](https://aiha.blob.core.windows.net/images/8758049a4de46bc4619361e9f19c1fdcca1648490171a53f0c5d01c10a09441b.jpg)  
+![Funerary jar. Longquan, China (Southern Song dynasty), 1127–1279 Stoneware with celadon glaze, height 23 cm HKU.C.1996.1076](https://aiha.blob.core.windows.net/images/8758049a4de46bc4619361e9f19c1fdcca1648490171a53f0c5d01c10a09441b.jpg)  
 
 # Rouleau vase  
 
@@ -1571,7 +1576,7 @@ Once one of the largest manufacturing centres of celadon in China, by the time o
 
 龍泉窯曾是全中國最龐大的青瓷產地，宋元兩代有超過三百個窯燒製青瓷。但到了十七世紀的清代，其業務已大為衰退，只剩不足三分之一的窯場仍活躍於青瓷製作。即便如此，這些窯場仍能持續燒造出超水準的青瓷。晚期的青瓷多專為古物收藏家或宮廷而設，煥發出博古之風。由於青瓷於康熙與雍正年間再度流行，遂發展出新的技術和器型，如這件精緻、色澤較宋代龍泉窯青瓷為淡雅的棒槌瓶，乃透過減低釉中的鐵含量所致，屬康熙年間的創新技術。  
 
-![Longquan, China (Qing dynasty), Kangxi period, 1662–1722 Stoneware with celadon glaze, height 23.7 cm HKU.C.1953.0015](https://aiha.blob.core.windows.net/images/c581244d97b3aa2363181b09bcfa68080a5685a470cdbfa64bd3d23ae8221ec2.jpg)  
+![Rouleau vase. Longquan, China (Qing dynasty), Kangxi period, 1662–1722 Stoneware with celadon glaze, height 23.7 cm HKU.C.1953.0015](https://aiha.blob.core.windows.net/images/c581244d97b3aa2363181b09bcfa68080a5685a470cdbfa64bd3d23ae8221ec2.jpg)  
 
 # Bowl with parrots  
 
@@ -1607,7 +1612,7 @@ HKU.C.1964.0266
 
 由於中韓兩國的文化交流頻繁，許多韓國藝術所用的象徵都源自中國裝飾藝術。其中青瓷和其他裝飾器物上的圖案都與受到各朝統治者推祟、滲透人民社會與宗教生活的儒釋道思想相關。與中國文化一樣，碗上的鶴紋象徵長壽；而幾乎與高麗刺繡上完全相同的卷雲紋，則為常用的背景裝飾花紋。  
 
-![Korea (Goryeo dynasty), 918–1392 Porcelain with celadon glaze, height 6.1 cm HKU.C.1964.0266](https://aiha.blob.core.windows.net/images/81b49c613867525eba93a3bfb498d6f60bb2a999ce23d5b42643a5905472806b.jpg)  
+![Bowl with parrots. Korea (Goryeo dynasty), 918–1392 Porcelain with celadon glaze, height 6.1 cm HKU.C.1964.0266](https://aiha.blob.core.windows.net/images/81b49c613867525eba93a3bfb498d6f60bb2a999ce23d5b42643a5905472806b.jpg)  
 
 # Cup  
 
@@ -1621,7 +1626,7 @@ Cups like this might have been used for drinking wine or tea, or for eating rice
 
 青瓷杯或用於盛茶酒或米飯，極受高麗貴族和文人喜愛，亦是文人雅集和節慶中重要的酒器。青瓷器物如碗碟，也常用於皇家宴席，偶爾也作為外交禮物。  
 
-![Korea (Goryeo dynasty), 918–1392 Porcelain with celadon glaze, height 4.8 cm HKU.C.1964.0265](https://aiha.blob.core.windows.net/images/8bea3de543dc6c3d74e0cb2964bd810b24c37c2616a0d27ddae3383e2d7a310c.jpg)  
+![Cup. Korea (Goryeo dynasty), 918–1392 Porcelain with celadon glaze, height 4.8 cm HKU.C.1964.0265](https://aiha.blob.core.windows.net/images/8bea3de543dc6c3d74e0cb2964bd810b24c37c2616a0d27ddae3383e2d7a310c.jpg)  
 
 # Bowl  
 
@@ -1643,7 +1648,7 @@ Demonstrating a range of Chinese, Khmer and Vietnamese influences, celadon wares
 
 即使宋加洛青瓷散發出中國、高棉及越南陶瓷的氣質，但其標誌性、施綠釉於白土上所成的淡綠色調及對圖案與器型的選材，仍極具本地特色。當十五世紀的中國瓷器貿易受阻時，素可泰王國的窯場積極投入生產，並出口至印尼群島、馬來半島及東南亞其他地區，宋加洛青瓷遂成為流行的外銷瓷。在十五世紀中葉，承載著超過兩萬件陶瓷、在前往爪哇途中與一艘暹羅帆船碰撞後而沉沒的「皇家南海」號上，發現到大量的宋加洛青瓷。直至一四八八年被緬甸陶瓷取代前，宋加洛青瓷應為東南亞青瓷的主流。  
 
-![Sawankhalok, Thailand, 15th or 16th century Stoneware with celadon glaze, diameter 28.6 cm Asian Civilisations Museum, 1998-00966](https://aiha.blob.core.windows.net/images/207821c6dfb99f17a44cc375d1cb2d841c455b0bbfeecaa2be0bd8563af025c9.jpg)  
+![Bowl. Sawankhalok, Thailand, 15th or 16th century Stoneware with celadon glaze, diameter 28.6 cm Asian Civilisations Museum, 1998-00966](https://aiha.blob.core.windows.net/images/207821c6dfb99f17a44cc375d1cb2d841c455b0bbfeecaa2be0bd8563af025c9.jpg)  
 
 # Miniature bowl  
 
@@ -1659,7 +1664,7 @@ HKU.C.1964.0583
 
 塑像、小罐、杯和瓶等微型器物多用於泰國本地儀式，偶爾與小型可攜式祭壇一同使用。正如這兩件青釉炻器，微型器物一般施淺橄欖綠色碎片紋釉，底部則不施釉以露出褐紅色的陶胎。微型器物是宋加洛窯常見的青瓷產品，均為本地與外銷之用。  
 
-![Sawankhalok, Thailand, 15th or 16th century Stoneware with celadon glaze, height 4.3 cm HKU.C.1964.0583](https://aiha.blob.core.windows.net/images/1a23c50fab0b03a95e9e4d5d061610314f9bd1628c97014b072a661f09d6401a.jpg)  
+![Miniature bowl. Sawankhalok, Thailand, 15th or 16th century Stoneware with celadon glaze, height 4.3 cm HKU.C.1964.0583](https://aiha.blob.core.windows.net/images/1a23c50fab0b03a95e9e4d5d061610314f9bd1628c97014b072a661f09d6401a.jpg)  
 
 # Jarlet  
 
@@ -1671,7 +1676,7 @@ Sawankhalok, Thailand, 15th or 16th century Stoneware with celadon glaze, height
 青釉炻器，高 6.5 厘米  
 HKU.C.1964.0580  
 
-![Sawankhalok, Thailand, 15th or 16th century Stoneware with celadon glaze, height 6.5 cm HKU.C.1964.0580](https://aiha.blob.core.windows.net/images/4b0ef7468cf4131350f9a9ca1dd0d6d22720d307cfb19c63b86572cf7f017380.jpg)  
+![Jarlet. Sawankhalok, Thailand, 15th or 16th century Stoneware with celadon glaze, height 6.5 cm HKU.C.1964.0580](https://aiha.blob.core.windows.net/images/4b0ef7468cf4131350f9a9ca1dd0d6d22720d307cfb19c63b86572cf7f017380.jpg)  
 
 # Covered jar  
 
@@ -1687,7 +1692,7 @@ This jar includes moulded decorations of floral scrolls applied to the outer wal
 
 罐身外壁以貼花卷草花卉紋為裝飾，底部刻劃出「天」、「長」、「口」三字，屬北越南陳朝 (1225-1400) 優質青瓷的典型例子。就像泰國陶匠，位於紅河谷流域的越南窯場於十四世紀至十六世紀，把握「明代對外貿易真空期」，開始外銷陶瓷至土耳其、埃及、印尼和日本。這些窯場的出口商品反映出當時中國陶瓷的風格轉變，因為象牙白釉瓷與青瓷已迅速被以鐵褐色或鈷藍色裝飾的陶瓷所取代。  
 
-![Northern Vietnam, 14th century Stoneware, height 12.8 cm Asian Civilisations Museum, 2000-01239](https://aiha.blob.core.windows.net/images/19a63e009461dd19a641a304585afc8eb96c941f955a9daef59490a30999f1dd.jpg)  
+![Covered jar. Northern Vietnam, 14th century Stoneware, height 12.8 cm Asian Civilisations Museum, 2000-01239](https://aiha.blob.core.windows.net/images/19a63e009461dd19a641a304585afc8eb96c941f955a9daef59490a30999f1dd.jpg)  
 
 ![](https://aiha.blob.core.windows.net/images/b344c3b6573361156e2657223c290893072e985fc7f148f017993412de5535e0.jpg)  
 
