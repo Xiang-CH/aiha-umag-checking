@@ -1,8 +1,8 @@
 Objectifying China and Their Stylistic Influences Abroad  
 
-![](https://aiha.blob.core.windows.net/images/46516eb1d3a1c3b093253dde56790a7a61da6e8c7cc388d36fc17ded842187be.jpg)  
+![Cover Image: Mounted bowl(金屬鑲嵌碗)](https://aiha.blob.core.windows.net/images/46516eb1d3a1c3b093253dde56790a7a61da6e8c7cc388d36fc17ded842187be.jpg)  
 
-![](https://aiha.blob.core.windows.net/images/8485e1d9edd4b41c6b562baf9d20ab0004f49275cccbaf3f3bf6b3bfe2ee5f84.jpg)  
+![Second Cover Image: Blue-and-white(青花瓷) pattern](https://aiha.blob.core.windows.net/images/8485e1d9edd4b41c6b562baf9d20ab0004f49275cccbaf3f3bf6b3bfe2ee5f84.jpg)  
 
 瓷移物化   
 陶染域外的明清陶瓷   
@@ -50,7 +50,7 @@ THE UNIVERSITY OF HONG KONG
 
 <html><body><table><tr><td></td><td>Note to the reader 備</td></tr><tr><td>10</td><td>Foreword 前言</td></tr><tr><td>12</td><td>Chinese porcelain in Europe and Asia 歐洲與亞洲的中國瓷器</td></tr><tr><td>20</td><td>Blue-and-white 青花瓷</td></tr><tr><td>60</td><td>Blanc de Chine 中國白</td></tr><tr><td>72</td><td>Enamelled porcelain 釉上彩瓷</td></tr><tr><td>102</td><td>Qingbai and celadon</td></tr><tr><td>120</td><td>青白瓷與青瓷 Bibliography and selected reading list</td></tr></table></body></html>  
 
-![](https://aiha.blob.core.windows.net/images/9ea1482a4af010f5452507ffa548f63e212ae02cca04ac5a58cff20fc862a6ba.jpg)  
+![Plate in fencai enamels (粉彩碟)](https://aiha.blob.core.windows.net/images/9ea1482a4af010f5452507ffa548f63e212ae02cca04ac5a58cff20fc862a6ba.jpg)  
 
 # Note to the reader  
 
@@ -167,7 +167,7 @@ Individual potter's marks are rare on Jingdezhen porcelain, but they occur much 
 ![Important kiln sites in China](https://aiha.blob.core.windows.net/images/844f62b33826f79db206dd8e3d3b7365b3a260bef7d6b6a6955038555381af1b.jpg)  
 Important kiln sites in China中國的重要窯址  
 
-![](https://aiha.blob.core.windows.net/images/ab039a192f151476346638af8b4466d8c5e29c43f15c4ce1514b8e1fea1e2e78.jpg)  
+![A section of Vase](https://aiha.blob.core.windows.net/images/ab039a192f151476346638af8b4466d8c5e29c43f15c4ce1514b8e1fea1e2e78.jpg)  
 
 The early modern era was marked by the extension of the Silk Road to Italy and by the beginning of the importation into Europe of Eastern goods in the fourteenth century. Porcelain from China—the first country in the world to produce highfired, glazed ceramics—was one of the most important elements of this trade, which in the sixteenth century had expanded to include vast quantities of tea, silk, lacquer, spices and opium.  
 
@@ -211,7 +211,7 @@ By the early sixteenth century—after Portugal established trade routes to the 
 
 直至十四世紀，少量的中國瓷器才首次經中東商旅踏足歐洲，作為獻給歐洲統治者的珍稀禮物 ( 圖 1)。精緻、近乎透明、極為耐熱及耐潮的中國瓷器，在工藝技術上較十八世紀以前、以低溫燒製且厚重的歐洲陶瓷更為優越，故它被視為極罕有的奢侈品。由於歐洲收藏家未能領悟製瓷之法，故他們偶爾會為瓷器鑲嵌金銀裝飾，就像對待駝鳥蛋及大型貝殼等「自然界的奇珍異物」一樣，以突顯其稀有性，並將之轉化成截然不同的器物。這種擺滿奇珍異品的「珍奇屋」展示方式，就如今天的博物館一樣，  
 
-![Fonthill Vase. China, ca. 1300–1330. Porcelain, height 28.3 cm.National Museum of Ireland, Dublin](https://aiha.blob.core.windows.net/images/425e31a1a7a69f9fd79f4bdc96949a0e92caa03a8e4c100ebff657e33eb35e30.jpg)  
+![Fonthill Vase. China, ca. 1300–1330. Porcelain, height 28.3 cm. National Museum of Ireland, Dublin](https://aiha.blob.core.windows.net/images/425e31a1a7a69f9fd79f4bdc96949a0e92caa03a8e4c100ebff657e33eb35e30.jpg)  
 
 Fonthill Vase. China, ca. 1300–1330. Porcelain, height 28.3 cm.National Museum of Ireland, Dublin  
 「豐山瓶」。中國，約一三零零年至一三三零年 $^\circ$ 瓷，高28.3 厘米。都柏林，愛爾蘭國家博物館  
